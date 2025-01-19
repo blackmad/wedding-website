@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Order of Events"
+title: "Weekend Plan"
 ---
 
 ## 1:30pm - Arrivals
