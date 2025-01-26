@@ -35,7 +35,8 @@ html {
 
 /* VARIABLES */
 :root {
-  --main-font: 'Noto Sans', sans-serif;
+  --main-font: 'Roboto', sans-serif;
+  --serif-font: 'Roboto Serif', serif;
 
   --primary: #A3DAD6;
   --primary-content: #252329;
@@ -404,6 +405,7 @@ html {
   font-size: 1.5rem;
   margin-bottom: 1.5rem;
   color: inherit;
+  font-family: var(--serif-font);
   font-style: italic;
   text-align: center;
   text-transform: uppercase;
@@ -411,6 +413,7 @@ html {
 }
 
 .section__subheading {
+  font-family: var(--serif-font);
   font-weight: 400;
   font-style: italic;
   margin-bottom: 1rem;
@@ -517,12 +520,11 @@ html {
 
 blockquote {
   width: 100%;
+  font-family: var(--serif-font);
   font-style: italic;
   margin-left: auto;
   margin-right: auto;
-
   margin-bottom: 1rem;
-
   color: var(--copy-light)
 }
 
