@@ -35,7 +35,7 @@ html {
 
 /* VARIABLES */
 :root {
-  --main-font: 'Noto Sans', sans-serif;
+  --main-font: 'Roboto', sans-serif;
 
   --primary: #7c3aed;
   --primary-content: #ffffff;
