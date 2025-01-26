@@ -4,7 +4,7 @@
 
     <section id="when" class="section light">
         <div class="section__svg">
-            {{ partial "svgs/leaf.svg" . }}
+            {{ partial "partials/shared/sectionheader.html" . }}
         </div>
         <h1 class="section__heading">The Wedding</h1>
         <section class="section__split">
@@ -38,7 +38,7 @@
 
     <section id="order-of-events" class="section light">
         <div class="section__svg">
-            {{ partial "svgs/leaves.svg" . }}
+            {{ partial "partials/shared/sectionheader.html" . }}
         </div>
 
         {{ $t := .Site.GetPage "/section/order-of-events" }}
@@ -52,7 +52,7 @@
 
     <section id="travel-accommodation" class="section light">
         <div class="section__svg">
-            {{ partial "svgs/leaf.svg" . }}
+            {{ partial "partials/shared/sectionheader.html" . }}
         </div>
 
         {{ $t := .Site.GetPage "/section/travel-accommodation" }}
@@ -66,7 +66,7 @@
 
     <section id="dress" class="section light">
         <div class="section__svg">
-            {{ partial "svgs/leaf.svg" . }}
+            {{ partial "partials/shared/sectionheader.html" . }}
         </div>
     
         {{ $t := .Site.GetPage "/section/dress" }}
@@ -94,7 +94,7 @@
 
     <section id="more" class="section light" style="text-align:center;">
         <div class="section__svg">
-            {{ partial "svgs/leaf.svg" . }}
+            {{ partial "partials/shared/sectionheader.html" . }}
         </div>
         <p style="margin-bottom:1em;">Thank you for visiting our website!</p>
         <p style="margin-bottom:1em;">We cannot wait to share this special day with you, and have all our loved ones under one roof for the first time in FOREVER!</p>
