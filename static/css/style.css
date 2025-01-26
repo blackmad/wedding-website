@@ -538,3 +538,34 @@ figcaption {
   text-align: right;
   color: var(--copy-light)
 }
+
+/* Details/Summary styles for expandable content */
+details {
+  margin: 1rem 0;
+  padding: 0.5rem 1rem;
+  background: var(--background);
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+details summary {
+  cursor: pointer;
+  font-family: var(--serif-font);
+  font-style: italic;
+  color: var(--copy-light);
+  padding: 0.5rem 0;
+}
+
+details summary::marker {
+  color: var(--primary);
+}
+
+details[open] summary {
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+details p {
+  margin: 0.5rem 0;
+  color: var(--copy);
+}
