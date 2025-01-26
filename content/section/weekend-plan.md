@@ -123,10 +123,37 @@ A day in Istanbul!
 </details>
 
 <details>
-<summary>7:00 PM - 10:00 PM: Meyhane Dinner</summary>
+<summary>7:00 PM - 10:00 PM: Meyhane Dinner - <a href="https://www.google.com/maps/place/Tarihi+Cumhuriyet+Meyhanesi/@41.0348064,28.9744027,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab76091fbfa5b:0x21eb82112ea473a!8m2!3d41.0348024!4d28.9769776!16s%2Fg%2F1tcyn7n2?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Tarihi Cumhuriyet Meyhanesi</a></summary>
 <p>Join us for a traditional Turkish tavern experience with meze, rakı, and live music.</p>
 
-<p>📍 <strong>Location:</strong> TBD<br>
+<p>
 ⏰ 7:00 PM - 10:00 PM<br>
 🍽️ Traditional meze and drinks will be served</p>
 </details>
+
+<subheading>
+Tuesday, July 2nd
+</subheading>
+
+<subheading2>
+Wedding!
+</subheading2>
+
+<details>
+<summary>1:00 PM - 6:00 PM: Wedding Party preparations - <a href="https://www.google.com/maps/place/Liya+All/@40.8502673,29.1386105,17z/data=!3m1!4b1!4m6!3m5!1s0x14cac36ff6d8fded:0xee2fc4a1d52b5f9f!8m2!3d40.8502633!4d29.1411854!16s%2Fg%2F11sfrx2sq_?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Liya</a></summary>
+<p>Join us for a traditional Turkish wedding ceremony.</p>
+
+<p>📍 <strong>Location:</strong> TBD<br>
+⏰ 10:00 AM - 12:00 PM<br>
+👗 Smart casual</p>
+</details>
+
+<details>
+<summary>7:00 PM - 1:00 AM: Wedding Ceremony - <a href="https://www.google.com/maps/place/Liya+All/@40.8502673,29.1386105,17z/data=!3m1!4b1!4m6!3m5!1s0x14cac36ff6d8fded:0xee2fc4a1d52b5f9f!8m2!3d40.8502633!4d29.1411854!16s%2Fg%2F11sfrx2sq_?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Liya</a></summary>
+<p>Join us for a traditional Turkish wedding ceremony.</p>
+
+<p>📍 <strong>Location:</strong> TBD<br>
+⏰ 10:00 AM - 12:00 PM<br>
+👗 Smart casual</p>
+</details>
+
