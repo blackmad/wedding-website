@@ -3,7 +3,14 @@ draft: false
 title: "Weekend Plan"
 ---
 
-# Saturday, June 28th
+<subheading>
+Saturday, June 28th
+</subheading>
+
+<subheading2>
+Evening in Kadıköy (Anatolian side of Istanbul)
+</subheading2>
+
 
 <details>
 <summary>7:00PM Casual döner dinner at <a href="https://www.google.com/maps/place/Tatar+Salim/@40.989787,29.0240479,19z/data=!4m6!3m5!1s0x14cab867bc394145:0xf1e4b12c689f9c6a!8m2!3d40.9894843!4d29.0244177!16s%2Fg%2F11f4_5f777?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Tatar Salim</a></summary>
@@ -19,4 +26,51 @@ title: "Weekend Plan"
 </details>
 
 
-# Sunday, June 29th 
+<subheading>
+Sunday, June 29th
+</subheading>
+
+<subheading2>
+Art in Galataport (European side of Istanbul)
+</subheading2>
+
+For those staying on the Anatolian side, we recommend taking the ferry to Karakoy and then walking to Galataport. Google maps will show you the way.
+
+<details>
+<summary>Morning/Afternoon: Suggested Historical Sites</summary>
+<p>For those interested in exploring Istanbul's rich history before the evening reception, here are some recommended sites. All are easily accessible and worth visiting:</p>
+
+<p>🕌 <strong>Hagia Sophia & Blue Mosque</strong><br>
+Located across from each other in Sultanahmet<br>
+⏰ Open 9:00 AM - 5:00 PM<br>
+💡 Tip: Visit Hagia Sophia first as lines can get long. Remember to dress modestly - shoulders and knees covered.</p>
+
+<p>💧 <strong>Basilica Cistern</strong><br>
+Just a 3-minute walk from Hagia Sophia<br>
+⏰ Open 9:00 AM - 7:00 PM<br>
+💡 Tip: Recently renovated! Much less crowded in the afternoon.</p>
+
+<p>👑 <strong>Palace Options:</strong><br>
+• Topkapı Palace: Closer to other sites, more historical<br>
+• Dolmabahçe Palace: More ornate, European style<br>
+⏰ Both open 9:00 AM - 4:00 PM<br>
+💡 Tip: Choose one - they're both massive and need 2-3 hours to properly visit.</p>
+</details>
+
+
+<details>
+<summary>2:00 PM: Self guided exploration of Istanbul Modern</summary>
+<p>Explore contemporary Turkish art, including works by Yuva's great aunt Fahrelnissa Zeid and cousin Nejad Devrim!</p>
+
+<p>📍 <strong>Location:</strong> <a href="https://www.google.com/maps/place/Istanbul+Museum+of+Modern+Art,+K%C4%B1l%C4%B1%C3%A7ali+Pa%C5%9Fa,+Tophane+%C4%B0skele+Caddesi,+Beyo%C4%9Flu%2F%C4%B0stanbul,+T%C3%BCrkiye/@52.3577347,4.8531381,14z/data=!4m5!3m4!1s0x14cab9d90f6ec2c3:0x3bae486f6c10e89d!8m2!3d41.0259196!4d28.9828383?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Istanbul Modern</a><br>
+</details>
+
+<details>
+<summary>4:00 PM - 7:00 PM: Istanbul Modern Reception</summary>
+<p>Join us for cocktails and contemporary art at Istanbul's premier modern art museum, featuring stunning views of the Bosphorus from its new Renzo Piano-designed building. (As well as featuring famous paintings by Yuva's great aunt and cousin!)</p>
+
+<p>📍 <strong>Location:</strong> <a href="https://www.google.com/maps/place/Istanbul+Museum+of+Modern+Art,+K%C4%B1l%C4%B1%C3%A7ali+Pa%C5%9Fa,+Tophane+%C4%B0skele+Caddesi,+Beyo%C4%9Flu%2F%C4%B0stanbul,+T%C3%BCrkiye/@52.3577347,4.8531381,14z/data=!4m5!3m4!1s0x14cab9d90f6ec2c3:0x3bae486f6c10e89d!8m2!3d41.0259196!4d28.9828383?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Istanbul Modern</a><br>
+⏰ 5:00 PM - 8:00 PM<br>
+👗 Smart casual<br>
+🥂 Cocktails and light appetizers will be served</p>
+</details>
