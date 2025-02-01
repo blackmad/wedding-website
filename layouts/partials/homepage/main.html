@@ -50,12 +50,12 @@
 
     <div class="image image3"></div>
 
-    <section id="travel-accommodation" class="section light">
+    <section id="travel-and-accommodation" class="section light">
         <div class="section__svg">
             {{ partial "partials/shared/sectionheader.html" . }}
         </div>
 
-        {{ $t := .Site.GetPage "/section/travel-accommodation" }}
+        {{ $t := .Site.GetPage "/section/travel-and-accommodation" }}
         <h1 class="section__heading">{{$t.Params.title}}</h1>
         <section class="section__md-content">
             {{ $t.Content }}

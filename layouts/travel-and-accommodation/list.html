@@ -3,10 +3,10 @@
 {{ partial "shared/navigation.html" . }}
 
 <section class="section light standalone">
-    <div class="section__svg">
-        {{ partial "svgs/leaf.svg" . }}
-    </div>
-    <h1 class="section__heading">{{.Page.Title}}</h1>
+    <!-- <div class="section__svg">
+        {{ partial "partials/shared/sectionheader-big.html" . }}
+    </div> -->
+    <h1 class="page__section__heading">{{.Page.Title}}</h1>
     {{ .Page.Content }}
 </section>
 
