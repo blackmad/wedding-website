@@ -15,7 +15,7 @@ Evening in Kadıköy (Anatolian side of Istanbul)
 <details>
 <summary>7:00PM Casual döner dinner at <a href="https://www.google.com/maps/place/Tatar+Salim/@40.989787,29.0240479,19z/data=!4m6!3m5!1s0x14cab867bc394145:0xf1e4b12c689f9c6a!8m2!3d40.9894843!4d29.0244177!16s%2Fg%2F11f4_5f777?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Tatar Salim</a></summary>
 <p>David's favorite döner place in Istanbul, coincidentally, Yuva's mother's favorite döner place as well. <br/><br/>Yuva isn't sute what the big deal is.</p>
-<p>👗 Casual dress code</p>
+<p>👗 Casual attire code</p>
 </details>
 
 <details>
@@ -43,7 +43,7 @@ For those staying on the Anatolian side, we recommend taking the ferry to Karako
 <p>🕌 <strong>Hagia Sophia & Blue Mosque</strong><br>
 Located across from each other in Sultanahmet<br>
 ⏰ Open 9:00 AM - 5:00 PM<br>
-💡 Tip: Visit Hagia Sophia first as lines can get long. Remember to dress modestly - shoulders and knees covered.</p>
+💡 Tip: Visit Hagia Sophia first as lines can get long. Remember to attire modestly - shoulders and knees covered.</p>
 
 <p>💧 <strong>Basilica Cistern</strong><br>
 Just a 3-minute walk from Hagia Sophia<br>

@@ -11,16 +11,16 @@
             <div>
                 <p class="section__subheading">When</p>
                 <p class="section__text--bold">
-                    {{ .Params.when }}
+                    July 1st, 2025
                 </p>
             </div>
             <div>
                 <p class="section__subheading">Where</p>
                 <p class="section__text--bold">
-                    {{ .Params.where.first }}
+                    Liya, Sedef Adası
                 </p>
                 <p>
-                    {{ .Params.where.second }}
+                    Istanbul, Türkiye
                 </p>
             </div>
         </section>
@@ -64,24 +64,24 @@
     
     <div class="image image4"></div>
 
-    <section id="dress" class="section light">
+    <section id="attire" class="section light">
         <div class="section__svg">
             {{ partial "partials/shared/sectionheader.html" . }}
         </div>
     
-        {{ $t := .Site.GetPage "/section/dress" }}
+        {{ $t := .Site.GetPage "/section/attire" }}
         <h1 class="section__heading">{{$t.Params.title}}</h1>
         <section class="section__md-content">
             {{ $t.Content }}
         </section>
     </section>
-    <section id="facilities-accessibility" class="section light">
+    <!-- <section id="facilities-accessibility" class="section light">
         {{ $t := .Site.GetPage "/section/facilities-accessibility" }}
         <h1 class="section__heading">{{$t.Params.title}}</h1>
         <section class="section__md-content">
             {{ $t.Content }}
         </section>
-    </section>
+    </section> -->
     <section id="gifts" class="section light">
         {{ $t := .Site.GetPage "/section/gifts" }}
         <h1 class="section__heading">{{$t.Params.title}}</h1>
@@ -96,16 +96,16 @@
         <div class="section__svg">
             {{ partial "partials/shared/sectionheader.html" . }}
         </div>
-        <p style="margin-bottom:1em;">Thank you for visiting our website!</p>
-        <p style="margin-bottom:1em;">We cannot wait to share this special day with you, and have all our loved ones under one roof for the first time in FOREVER!</p>
-        <p style="margin-bottom:1em;">In the meantime, if you have any questions you can contact us both at <a href="mailto:hugoandsarah2023@gmail.com">HugoAndSarah2023@gmail.com</a></p>
+        <p style="margin-bottom:1em;">Thank you for reading through to the end!</p>
+        <p style="margin-bottom:1em;">We cannot wait to share this special day with you, in this special place, and see so many (geographically) distant friends and family!</p>
+        <p style="margin-bottom:1em;">In the meantime, if you have any questions you can contact us both at <a href="mailto:davidandyuva2025@googlegroups.com">davidandyuva2025@googlegroups.com</a></p>
         </p>
 </p>
     </section>
 
-    <div class="scroll-top">
+    <!-- <div class="scroll-top">
         <a class="scroll-top__button" href="#top">
             {{ partial "svgs/scroll-up.svg" . }}
         </a>
-    </div>
+    </div> -->
 </main>

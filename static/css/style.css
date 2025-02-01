@@ -427,7 +427,7 @@ html {
 /* FOOTER */
 
 .footer {
-  padding: 0px 20px 20px 20px;
+  padding: 20px 20px 20px 20px;
   display: flex;
   flex-direction: column;
   text-align: center;
@@ -637,4 +637,14 @@ subheading2::after {
   subheading2::after {
     width: 80px;
   }
+}
+
+#more {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+}
+
+#more p {
+  max-width: 500px;
 }

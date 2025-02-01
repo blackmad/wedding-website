@@ -1,7 +1,6 @@
 ---
 draft: false
 title: "Gifts"
-giftUrl: "https://www.collectionpot.com/pot/3015949/"
 ---
 
 The most important thing to us is that you are able to celebrate with us on our wedding day. However, if you wish to give a gift, we will gratefully accept a small contribution towards our honeymoon or settling into our new home.
@@ -10,19 +9,10 @@ The most important thing to us is that you are able to celebrate with us on our 
 
 <figure>
     <blockquote>
-        <p>Your coming to our wedding is a gift</p>
-        <p>Greater than rubies, or some shop-bought thing.</p>
-        <p>Which brings us onto ‘presents’: tricky stuff.</p>
-        <p>We won’t send out a Harrods’ Wedding List</p>
-        <p>But if you had a little cash to spare,</p>
-        <p>That’s what we’d like please, to help make our home.</p>
-        <p>Whatever comes our way will touch our hearts,</p>
-        <p>And seeing your dear faces when we say our vows.</p>
+        <p>It is customary to gift newlyweds gold on their wedding day in many cultures. In Türkiye too, when a couple gets married, gold jewelry is offered as a gift by their friends and families to help them start off to a good, prosperous future.</p>
     </blockquote>
-    <figcaption>-Paul Wilson, up-and-coming poetic sensation/Father of the Groom</figcaption>
+    <!-- <figcaption></figcaption> -->
 </figure>
 
+If you want to participate in this tradition, we will furnish a list of reputable goldsmiths in Istanbul closer to the wedding. Hopefully seeking out a red-ribbon adorned gold coin will be part of the novelty of the travel. A quarter of a gold coin is ~$100.
 
-<br/>
-
-If you would like to do this, we've set up an online 'pot' which can be found here: [Collection Pot](https://www.collectionpot.com/pot/3015949/)
