@@ -123,7 +123,7 @@ Eat everything. Everything in Turkey is delicious.
 
 ## Drink
 
-On a more serious note - there was a rash of deaths in Istanbul from illicit alcohol this year. We'll give some more advice soon.
+On a more serious note - there was a rash of deaths in Istanbul from illicit alcohol this year. Avoid hard liquor, especially raki in restaurants. Wine and beer is fine (though not delicious, unfortunately)[]
 
 - Turkish tea - "bir chai" - comes in tiny little glasses and you'll be drinking it all day long. If it's serve-yourself from a samovar, pour some strong tea from the kettle on top and dilute it with the hot water below.
 - Ayran - thin drinkable yogurt, similar to a salt lassi, goes with everything
