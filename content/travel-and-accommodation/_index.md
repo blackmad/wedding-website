@@ -119,6 +119,19 @@ On a more serious note - there was a rash of deaths in Istanbul from illicit alc
 - Turkish tea - "bir chai" - comes in tiny little glasses and you'll be drinking it all day long. If it's serve-yourself from a samovar, pour some strong tea from the kettle on top and dilute it with the hot water below.
 - Ayran - thin drinkable yogurt, similar to a salt lassi, goes with everything
 - Raki - an anise-flavored spirit. Goes with a big meyhane meal. Makes one maudlin. Raki is almost always diluted with water (added after the Raki is poured) and turns cloudy in the process.
-- Turkish coffee - 
+- Turkish coffee - Do *not* drink past the point where it start tasting "sandy" or "gritty".
+
+# After the wedding
+
+Two obvious places to go next in Turkey are Cappadocia and Bodrum.
+
+- Cappadocia is a region known for its fairy chimneys (hoodoos, rock spires) and cave churches. You have likely seen an instagram influencer standing in front of a field of hot air balloons looking like they were at a hotel on Tattooine. That's Cappadocia. The landscape is a bit like the American southwest, but with hallucinatory painted cave churches everywhere. Will be crowded and hot in the summer but still highly recommend.
+- Bodrum is a resort town on the Aegean coast. Yuva and David will be heading there after as it is relaxing and beautiful and Yuva's family is intimately tied up in the history of the place. Your experience in Bodrum can be anything from Ibiza/Mykonos-esque, to a Mediterranean cruise, to a rustic beach resort.
+
+
+
+
+
+
 
 
