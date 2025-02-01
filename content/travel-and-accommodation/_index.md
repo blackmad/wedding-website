@@ -24,8 +24,12 @@ The ferry leaves from Bostanci harbour at 6pm. Do not be late!
 ## Getting Around Istanbul
 
 Google Maps works quite well.
+<br>
+<br>
 
 There is a network of subways, buses and ferries that make getting around quite easy.
+<br>
+<br>
 
 Taxis work but can get stuck in crazy traffic. Bitaksi is a taxi app that works well. 
 
@@ -48,10 +52,15 @@ Half the wedding weekend will be on the European side, the wedding itself will b
 There are many more hotels & airbnbs on the European side, but some accommodations may feel both more touristy and more conservative. David stayed on both sides and enjoyed them both.
 
 <br>
+<br>
 
 (To David) The magic of staying in Moda (on the Anatolian side) is that you are in an ancient lively neighborhood, vibrating with life, and overlooking the beauty of historic imperial Istanbul on the other side. Also, it will be easier to get home from the wedding.
 
+<br>
+
 The European side is more convenient to many of the (truly worthwhile!) sights in Istanbul, like Hagia Sophia, the Blue Mosque, Basilica Cistern, and the Ottoman palaces - The Topkapi Palace and Dolmabahçe Palace.
+
+<br>
 
 Staying on the European side is fine - be prepared on the wedding day to leave two hours before the ferry to make sure you don't miss the boat!
 
