@@ -534,9 +534,8 @@ blockquote {
   width: 100%;
   font-family: var(--serif-font);
   font-style: italic;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 1rem;
+  text-align: justify;
+  
   color: var(--copy-light)
 }
 
