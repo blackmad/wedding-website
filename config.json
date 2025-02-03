@@ -36,10 +36,10 @@
     }
   },
   "params": {
-    "background_image_1": "/image/first.JPG",
-    "background_image_2": "/image/second.JPG",
-    "background_image_3": "/image/third.JPG",
-    "background_image_4": "/image/fourth.JPG",
-    "background_image_5": "/image/fifth.JPG"
+    "background_image_1": "/image/first.jpg",
+    "background_image_2": "/image/second.jpg",
+    "background_image_3": "/image/third.jpg",
+    "background_image_4": "/image/fourth.jpg",
+    "background_image_5": "/image/fifth.jpg"
   }
 }
