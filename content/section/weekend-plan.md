@@ -14,7 +14,7 @@ Evening in Kadıköy (Anatolian side of Istanbul)
 
 <details>
 <summary>7:00PM Casual döner dinner at <a href="https://www.google.com/maps/place/Tatar+Salim/@40.989787,29.0240479,19z/data=!4m6!3m5!1s0x14cab867bc394145:0xf1e4b12c689f9c6a!8m2!3d40.9894843!4d29.0244177!16s%2Fg%2F11f4_5f777?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Tatar Salim</a></summary>
-<p>David's favorite döner place in Istanbul, coincidentally, Yuva's mother's favorite döner place as well. <br/><br/>Yuva isn't sute what the big deal is.</p>
+<p>David's favorite döner place in Istanbul, coincidentally, Yuva's mother's favorite döner place as well. <br/><br/>Yuva isn't sure what the big deal is.</p>
 <p>👗 Casual attire code</p>
 </details>
 
@@ -31,10 +31,10 @@ Sunday, June 29th
 </subheading>
 
 <subheading2>
-Art in Galataport (European side of Istanbul)
+Art! (European side of Istanbul)
 </subheading2>
 
-For those staying on the Anatolian side, we recommend taking the ferry to Karakoy and then walking to Galataport. Google maps will show you the way.
+For those staying on the Anatolian side, we recommend taking the ferry to Karakoy and then walking to the museum. Google maps will show you the way.
 
 <details>
 <summary>Morning/Afternoon: Suggested Historical Sites</summary>
@@ -70,7 +70,7 @@ Just a 3-minute walk from Hagia Sophia<br>
 <p>Join us for cocktails and contemporary art at Istanbul's premier modern art museum, featuring stunning views of the Bosphorus from its new Renzo Piano-designed building. (As well as featuring famous paintings by Yuva's great aunt and cousin!)</p>
 
 <p>📍 <strong>Location:</strong> <a href="https://www.google.com/maps/place/Istanbul+Museum+of+Modern+Art,+K%C4%B1l%C4%B1%C3%A7ali+Pa%C5%9Fa,+Tophane+%C4%B0skele+Caddesi,+Beyo%C4%9Flu%2F%C4%B0stanbul,+T%C3%BCrkiye/@52.3577347,4.8531381,14z/data=!4m5!3m4!1s0x14cab9d90f6ec2c3:0x3bae486f6c10e89d!8m2!3d41.0259196!4d28.9828383?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Istanbul Modern</a><br>
-⏰ 5:00 PM - 8:00 PM<br>
+⏰ 4:00 PM - 7:00 PM<br>
 👗 Smart casual<br>
 🥂 Cocktails and light appetizers will be served</p>
 </details>
@@ -149,7 +149,7 @@ Wedding!
 </details>
 
 <details>
-<summary>7:00 PM - 1:00 AM: Wedding Ceremony - <a href="https://www.google.com/maps/place/Liya+All/@40.8502673,29.1386105,17z/data=!3m1!4b1!4m6!3m5!1s0x14cac36ff6d8fded:0xee2fc4a1d52b5f9f!8m2!3d40.8502633!4d29.1411854!16s%2Fg%2F11sfrx2sq_?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Liya</a></summary>
+<summary>7:00 PM - 1:30 Wedding Ceremony - <a href="https://www.google.com/maps/place/Liya+All/@40.8502673,29.1386105,17z/data=!3m1!4b1!4m6!3m5!1s0x14cac36ff6d8fded:0xee2fc4a1d52b5f9f!8m2!3d40.8502633!4d29.1411854!16s%2Fg%2F11sfrx2sq_?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Liya</a></summary>
 <p>Join us for a traditional Turkish wedding ceremony.</p>
 
 <p>📍 <strong>Location:</strong> TBD<br>

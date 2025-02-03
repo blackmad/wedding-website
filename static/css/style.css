@@ -35,8 +35,8 @@ html {
 
 /* VARIABLES */
 :root {
-  --main-font: 'Roboto', sans-serif;
-  --serif-font: 'Roboto Serif', serif;
+  --main-font: 'Raleway', sans-serif;
+  --serif-font: 'Raleway', serif;
 
   --primary: #A3DAD6;
   --primary-content: #252329;
@@ -97,9 +97,8 @@ html {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color: var(--primary);
+    /* background-color: var(--primary); */
     color: var(--primary-content);
-    text-shadow: var(--primary-dark) 2px 2px 0px;
     letter-spacing: 2px;
 
     height: 100vh;
@@ -263,7 +262,6 @@ html {
   font-weight: bolder;
   margin-bottom: 1.5rem;
   color: var(--primary-content);
-  font-style: italic;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 5px;
@@ -405,7 +403,6 @@ html {
   margin-bottom: 1.5rem;
   color: inherit;
   font-family: var(--serif-font);
-  font-style: italic;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 5px;
@@ -418,7 +415,6 @@ html {
   margin-top: 1rem !important;
   color: inherit;
   font-family: var(--serif-font);
-  font-style: italic;
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 5px;
@@ -427,7 +423,6 @@ html {
 .section__subheading {
   font-family: var(--serif-font);
   font-weight: 400;
-  font-style: italic;
   margin-bottom: 1rem;
 }
 
@@ -497,7 +492,6 @@ html {
 
   font-size: 1.25rem;
   color: inherit;
-  font-style: italic;
 }
 
 /* STANDALONE PAGE SPECIFIC */
@@ -533,7 +527,6 @@ html {
 blockquote {
   width: 100%;
   font-family: var(--serif-font);
-  font-style: italic;
   text-align: justify;
   
   color: var(--copy-light)
@@ -562,7 +555,6 @@ details {
 details summary {
   cursor: pointer;
   font-family: var(--serif-font);
-  font-style: italic;
   color: var(--copy-light);
   padding: 0.5rem 0;
 }
@@ -585,7 +577,6 @@ details p {
 subheading {
   display: block;
   font-family: var(--serif-font);
-  font-style: italic;
   font-size: 1.5rem;
   color: var(--copy-light);
   text-align: center;
@@ -611,7 +602,6 @@ subheading::after {
 subheading2 {
   display: block;
   font-family: var(--serif-font);
-  font-style: italic;
   font-size: 1.25rem;
   color: var(--copy-light);
   text-align: center;
