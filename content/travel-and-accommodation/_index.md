@@ -5,15 +5,7 @@ title: "Travel Advice"
 
 <iframe class="google-map" style="border:0;"  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d83839.0287162115!2d29.028109817905406!3d40.92068503711413!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14cac36ff6d8fded%3A0xee2fc4a1d52b5f9f!2sLiya%20All!5e0!3m2!1sen!2snl!4v1738435105427!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Address
-
-Liya All
-
-Maden, Şehsuvar Menemenlioğlu Sok No.2
-
-34970 Adalar/İstanbul, Türkiye
-<br>
-<br>
+## Transport
 
 Getting to the venue requires taking a private ferry from Bostanci. *You cannot reach the island by public ferry.*
  <br>
@@ -31,6 +23,11 @@ There is a network of subways, buses and ferries that make getting around quite 
 <br>
 <br>
 
+Getting in and out of public transport requires a transit pass, you can find them at stations. They are called [Istanbulkart](https://www.istanbulkart.istanbul/)
+
+<br>
+
+
 Taxis work but can get stuck in crazy traffic. Bitaksi is a taxi app that works well. 
 
 
@@ -40,7 +37,7 @@ Taxis work but can get stuck in crazy traffic. Bitaksi is a taxi app that works 
 <br>
 
 
-Istanbul is split across two continents by the Bosphorus Strait. The European side and the Anatolian (Asian) side. The Anatolian side has a reputation for being more liberal and less touristy.
+Istanbul is split across two continents by the Bosphorus Strait. The European side and the Anatolian (Asian) side. The Anatolian side has a reputation for being more liberal and less touristy (and is where Yuva grew up).
 
 <br>
 
@@ -94,17 +91,47 @@ We are still working on making accommodation recommendations.
 
 The must-dos in Istanbul are pretty clear and worth it.
 
+<br>
+<br>
+
+⛴︎ Take a boat tour on the Bosphorus Strait! ⛴︎
+
+<br>
 These are all very close to each other:
-- Hagia Sophia - take fifteen minutes, but you might need to wait a bit if you end up going during prayer time.
+
+- Hagia Sophia - take fifteen minutes, but you might need to wait a bit if you end up going during prayer time
 - Blue Mosque - same as above
+- Ancient history museum - 
 - Basilica Cistern - beautiful moody underground caves
 
 
-The palaces:
-- Topkapi Palace - David thought this was the more interesting of the two, as it dates back to earlier Ottoman times and feels it.
-- Dolmabahçe Palace - Incredibly gorgeous modern palace, on par with the great palaces of Europe.
+<br>
+<br>
 
-- Grand Bazaar - I don't know if I'd call this a must-do, but it's fun to wander through.
+- İstanbul Arkeoloji Müzeleri - Yuva loves these
+- Grand Bazaar and Egyptian Spice Bazaar - I don't know if I'd call this a must-do, but it's fun to wander through
+
+<br>
+<br>
+
+The palaces:
+- Topkapi Palace - David thought this was the more interesting of the two, as it dates back to earlier Ottoman times and feels it
+- Dolmabahçe Palace - Incredibly gorgeous modern palace, on par with the great palaces of Europe
+
+<br>
+<br>
+
+🚶‍♀️ Walk around Galata 🚶‍♂️
+🚶‍♀️ Walk around Moda 🚶‍♂️
+
+<br>
+<br>
+
+Art!
+- Istanbul Modern - modern art museum
+- Pera Museum - small gallery
+- Arter - contemporary art museum funded by the rich liberal family of Turkey
+- Salt - contemporary art museum
 
 ## Food!
 
@@ -118,25 +145,32 @@ Eat everything. Everything in Turkey is delicious.
 - Pilav - buttery rice served from popcorn-cart looking cases at small shops, often served with chicken, more delicious than it has any right to be.
 - Kebabs - Turkish Döner is unlike anything that claims to be doner kebab elsewhere. David's favorite.
 - Lahmacun - unlike the more Syrian/Lebanese style popular in NYC, this is a flatbread with a mix of lamb and tomato, often served rolled.
-- Mezze and Meyhanes - Yuva can explain more about this!
+- Mezze and Meyhanes - where the traditional Turkish entertainment happens. Mezze is a variety of hot and cold appetizers including traditional Mediterranean favorites and more seafood focused dishes, and Meyhanes are sort of like a Turkish tavern with live music in the evenings.
+- Kumpir - an absurdly loaded baked potato. The quintessential place to get these is from the vendors in Ortaköy.
 
 
 ## Drink
 
-On a more serious note - there was a rash of deaths in Istanbul from illicit alcohol this year. Avoid hard liquor, especially raki in restaurants. Wine and beer is fine (though not delicious, unfortunately)[]
+On a more serious note - there was a rash of deaths in Istanbul from illicit alcohol this year. Avoid hard liquor, especially raki in restaurants - except for places we explicitly recommend. Wine and beer is fine (though not delicious, unfortunately)
 
-- Turkish tea - "bir chai" - comes in tiny little glasses and you'll be drinking it all day long. If it's serve-yourself from a samovar, pour some strong tea from the kettle on top and dilute it with the hot water below.
+- Turkish tea - "bir çay, lütfen" (one tea, please) - comes in tiny little "thin-waist" glasses and you'll be drinking it all day long. If it's serve-yourself from a samovar, pour some strong tea from the kettle on top and dilute it with the hot water below.
 - Ayran - thin drinkable yogurt, similar to a salt lassi, goes with everything
 - Raki - an anise-flavored spirit. Goes with a big meyhane meal. Makes one maudlin. Raki is almost always diluted with water (added after the Raki is poured) and turns cloudy in the process.
-- Turkish coffee - Do *not* drink past the point where it start tasting "sandy" or "gritty".
+- Turkish coffee - Do *not* drink past the point where it starts tasting "sandy" or "gritty".
 
 # After the wedding
 
 Two obvious places to go next in Turkey are Cappadocia and Bodrum.
 
-- Cappadocia is a region known for its fairy chimneys (hoodoos, rock spires) and cave churches. You have likely seen an instagram influencer standing in front of a field of hot air balloons looking like they were at a hotel on Tattooine. That's Cappadocia. The landscape is a bit like the American southwest, but with hallucinatory painted cave churches everywhere. Will be crowded and hot in the summer but still highly recommend.
+- Cappadocia is a region known for its fairy chimneys (aka hoodoos, rock spires) and cave churches. You have likely seen an instagram influencer standing in front of a field of hot air balloons looking like they were at a hotel on Tattooine. That's Cappadocia. The landscape is a bit like the American southwest, but with hallucinatory painted cave churches everywhere. Will be crowded and hot in the summer but still highly recommend.
+
+![Cappadocia](/image/cappa.jpg)
+
 - Bodrum is a resort town on the Aegean coast. Yuva and David will be heading there after as it is relaxing and beautiful and Yuva's family is intimately tied up in the history of the place. Your experience in Bodrum can be anything from Ibiza/Mykonos-esque, to a Mediterranean cruise, to a rustic beach resort.
 
+
+
+![Bodrum](/image/bodrum.jpg)
 
 
 
