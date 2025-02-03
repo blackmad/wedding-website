@@ -32,7 +32,7 @@ Istanbul is split across two continents by the Bosphorus Strait.
 <br>
 
 
-Half the wedding weekend will be on the European side, the wedding itself will be on the Anatolian side.
+Half the wedding weekend will be on the European side, the wedding itself will be on the Anatolian (Asian/Eastern) side.
 
 <br>
 
@@ -49,6 +49,6 @@ Going back and forth between the two sides can be done by ferry (magical), subwa
 
 <br>
 
-The night of the wedding, be prepared to take a late night taxi home. The app [Bitaksi](https://www.bitaksi.com/) is your friend.
+The night of the wedding, be prepared to take a late night taxi home. The app [Bitaksi](https://www.bitaksi.com/) is your friend. Uber may now be available as well. We will try to charter a bus back to Kadikoy & European side.
 
 </p>
