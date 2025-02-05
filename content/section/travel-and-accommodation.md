@@ -3,7 +3,7 @@ draft: false
 title: "Travel and Accommodation"
 ---
 
-**Please take a look at our separate page for <a href="/travel-and-accommodation">travel and accommodation</a> for advice.**
+**Please take a look at our separate page for <a href="/travel-and-accommodation">travel and accommodation</a> for advice. As well as our <a href="/food-and-tourism">food and tourism</a> page for recommendations.**
 
 <br>
 
