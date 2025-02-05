@@ -3,11 +3,15 @@ draft: false
 title: "Attire"
 ---
 
-Dress code to come. Likely summery & colorful.
+Dress code to come.
+
+ Likely summery & colorful.
 
 <br>
 
+<center>
 🪭 Handfan is the word. 🪭
+</center>
 
 <br>
 

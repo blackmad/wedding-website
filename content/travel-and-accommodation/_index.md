@@ -7,7 +7,7 @@ title: "Travel Advice"
 
 ## Transport
 
-Getting to the venue requires taking a private ferry from Bostanci. *You cannot reach the island by public ferry.*
+Getting to the venue requires taking a private ferry from Bostanci Harbour. *You cannot reach the island by public ferry.*
  <br>
 <br>
 
@@ -44,14 +44,13 @@ Istanbul is split across two continents by the Bosphorus Strait. The European si
 
 Half the wedding weekend will be on the European side, the wedding itself will be on the Anatolian side.
 
-<br>
+## Where to Stay: East or West?
 
 There are many more hotels & airbnbs on the European side, but some accommodations may feel both more touristy and more conservative. David stayed on both sides and enjoyed them both.
 
 <br>
-<br>
 
-(To David) The magic of staying in Moda (on the Anatolian side) is that you are in an ancient lively neighborhood, vibrating with life, and overlooking the beauty of historic imperial Istanbul on the other side. Also, it will be easier to get home from the wedding.
+(To David) The magic of staying in Moda (on the Anatolian side) is that you are in an ancient neighborhood, vibrating with life, and overlooking the beauty of historic imperial Istanbul on the other side. Also, it will be easier to get home from the wedding.
 
 <br>
 
@@ -68,9 +67,9 @@ Going back and forth between the two sides can be done by ferry (magical), subwa
 
 <br>
 
-The night of the wedding, be prepared to take a late night taxi home. The app [Bitaksi](https://www.bitaksi.com/) is your friend.
+If you stay on the European side, be prepared on the night of the wedding to take a late night taxi home. The app [Bitaksi](https://www.bitaksi.com/) is your friend.
 
-</p>
+<br>
 
 # Accommodation
 
@@ -78,12 +77,14 @@ We are still working on making accommodation recommendations.
 
 ## Anatolian Side
 
+- [Wyndham Grand Istanbul Kalamis Marina Hotel](https://www.guestreservations.com/wyndham-grand-istanbul-kalamis-marina-hotel/booking?utm_source=google&utm_medium=cpc&utm_campaign=990032573&gad_source=1&gclid=CjwKCAiAtYy9BhBcEiwANWQQLwhlHiJAd-g4Sp8EW5L_OTaWN5lJ-CO72C7Zfb-aKZ5U1Fv5eeNP5hoCa1QQAvD_BwE)
+    - This is where we will be staying!
 - [Doubletree Moda](https://www.hilton.com/en/hotels/istimdi-doubletree-istanbul-moda/)
 - [Hotel Suadiye](https://www.guestreservations.com/hotel-suadiye-istanbul/booking?utm_source=google&utm_medium=cpc&utm_campaign=990032573&gad_source=1&gclid=CjwKCAiAqfe8BhBwEiwAsne6gSVz4WQOnSEc6CKwnTdIhi65RVAKJUIzfdH-ojDI-rxwMUEXwOZC6hoC3sAQAvD_BwE)
 
 ## European Side
 
-???
+- Recommendations to come, but you are all smart experienced travelers who can read reviews.
 
 # Tourism
 
@@ -98,6 +99,7 @@ The must-dos in Istanbul are pretty clear and worth it.
 
 <br>
 These are all very close to each other:
+<br><br>
 
 - Hagia Sophia - take fifteen minutes, but you might need to wait a bit if you end up going during prayer time
 - Blue Mosque - same as above
@@ -108,34 +110,36 @@ These are all very close to each other:
 <br>
 <br>
 
-- İstanbul Arkeoloji Müzeleri - Yuva loves these
+- İstanbul Arkeoloji Müzeleri - Yuva loves this museum.
 - Grand Bazaar and Egyptian Spice Bazaar - I don't know if I'd call this a must-do, but it's fun to wander through
 
 <br>
 <br>
 
-The palaces:
+The palaces:<br><br>
 - Topkapi Palace - David thought this was the more interesting of the two, as it dates back to earlier Ottoman times and feels it
 - Dolmabahçe Palace - Incredibly gorgeous modern palace, on par with the great palaces of Europe
 
 <br>
 <br>
 
-🚶‍♀️ Walk around Galata 🚶‍♂️
+🚶‍♀️ Walk around Galata 🚶‍♂️ <br/>
 🚶‍♀️ Walk around Moda 🚶‍♂️
 
 <br>
 <br>
 
 Art!
-- Istanbul Modern - modern art museum
-- Pera Museum - small gallery
+- Istanbul Modern - modern art museum (we'll be going here on Sunday as a group)
+- Pera Museum - small contemporary gallery
 - Arter - contemporary art museum funded by the rich liberal family of Turkey
 - Salt - contemporary art museum
 
 ## Food!
 
 Eat everything. Everything in Turkey is delicious.
+<br/>
+<br/>
 
 - Gozleme - a fresh made Turkish quesadilla
 - Simit - Turkish bagel covered in sesame seeds. Comes in puffy and hard varieites. Yuva prefers the hard ones.
@@ -151,7 +155,9 @@ Eat everything. Everything in Turkey is delicious.
 
 ## Drink
 
-On a more serious note - there was a rash of deaths in Istanbul from illicit alcohol this year. Avoid hard liquor, especially raki in restaurants - except for places we explicitly recommend. Wine and beer is fine (though not delicious, unfortunately)
+⚠️ On a more serious note - there was a rash of deaths in Istanbul from illicit alcohol this year. Avoid hard liquor, especially raki in restaurants - except for places we explicitly recommend. Wine and beer is fine (though not delicious, unfortunately)
+
+<br/>
 
 - Turkish tea - "bir çay, lütfen" (one tea, please) - comes in tiny little "thin-waist" glasses and you'll be drinking it all day long. If it's serve-yourself from a samovar, pour some strong tea from the kettle on top and dilute it with the hot water below.
 - Ayran - thin drinkable yogurt, similar to a salt lassi, goes with everything
@@ -162,15 +168,16 @@ On a more serious note - there was a rash of deaths in Istanbul from illicit alc
 
 Two obvious places to go next in Turkey are Cappadocia and Bodrum.
 
+<br>
+
 - Cappadocia is a region known for its fairy chimneys (aka hoodoos, rock spires) and cave churches. You have likely seen an instagram influencer standing in front of a field of hot air balloons looking like they were at a hotel on Tattooine. That's Cappadocia. The landscape is a bit like the American southwest, but with hallucinatory painted cave churches everywhere. Will be crowded and hot in the summer but still highly recommend.
 
-![Cappadocia](/image/cappa.jpg)
+<img src="/image/cappa.jpg" alt="Cappadocia" class="wide-image"/>
 
 - Bodrum is a resort town on the Aegean coast. Yuva and David will be heading there after as it is relaxing and beautiful and Yuva's family is intimately tied up in the history of the place. Your experience in Bodrum can be anything from Ibiza/Mykonos-esque, to a Mediterranean cruise, to a rustic beach resort.
 
 
-
-![Bodrum](/image/bodrum.jpg)
+<img src="/image/bodrum.jpg" alt="bodrum" class="wide-image"/>
 
 
 

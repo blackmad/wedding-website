@@ -16,11 +16,12 @@ The most important thing to us is that you are able to celebrate with us on our 
 
 <figure>
     <blockquote>
-        <p>It is customary to gift newlyweds gold on their wedding day in many cultures. In Türkiye too, when a couple gets married, gold jewelry is offered as a gift by their friends and families to help them start off to a good, prosperous future.</p>
+        <p><i>It is customary to gift newlyweds gold on their wedding day in many cultures. In Türkiye too, when a couple gets married, gold jewelry is offered as a gift by their friends and families to help them start off to a good, prosperous future.</i></p>
     </blockquote>
     <!-- <figcaption></figcaption> -->
 </figure>
 </div>
+<br/>
 
 If you want to participate in this tradition, we will update the website a list of reputable goldsmiths in Istanbul closer to the wedding. Hopefully seeking out a red-ribbon adorned gold coin will be part of the novelty of the travel. A quarter of a gold coin is ~$100.
 

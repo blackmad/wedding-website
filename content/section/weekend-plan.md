@@ -42,18 +42,15 @@ For those staying on the Anatolian side, we recommend taking the ferry to Karako
 
 <p>🕌 <strong>Hagia Sophia & Blue Mosque</strong><br>
 Located across from each other in Sultanahmet<br>
-⏰ Open 9:00 AM - 5:00 PM<br>
 💡 Tip: Visit Hagia Sophia first as lines can get long. Remember to attire modestly - shoulders and knees covered.</p>
 
 <p>💧 <strong>Basilica Cistern</strong><br>
 Just a 3-minute walk from Hagia Sophia<br>
-⏰ Open 9:00 AM - 7:00 PM<br>
 💡 Tip: Recently renovated! Much less crowded in the afternoon.</p>
 
 <p>👑 <strong>Palace Options:</strong><br>
 • Topkapı Palace: Closer to other sites, more historical<br>
 • Dolmabahçe Palace: More ornate, European style<br>
-⏰ Both open 9:00 AM - 4:00 PM<br>
 💡 Tip: Choose one - they're both massive and need 2-3 hours to properly visit.</p>
 </details>
 
@@ -95,6 +92,7 @@ A day in Istanbul!
 <details>
 <summary>12:00 PM - 3:00 PM: Wedding Party Women's Hamam - <a href="https://www.google.com/maps/place/K%C4%B1l%C4%B1%C3%A7+Ali+Pa%C5%9Fa+Hamam/@41.0261946,28.9780568,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab9de9ff3602d:0x8cf6a50e4ca2fbc2!8m2!3d41.0261906!4d28.9806317!16s%2Fg%2F1hhxkp_df?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Kılıç Ali Paşa Hamam</a></summary>
 <p>The bride and women of the wedding party will enjoy a traditional Turkish bath experience.</p>
+<p>Spots are limited to the wedding party - we will reach out to invite folks. Otherwise - explore the city!</p>
 
 <p>📍 <strong>Location:</strong> TBD<br>
 ⏰ 12:00 PM - 3:00 PM<br>
@@ -115,6 +113,7 @@ A day in Istanbul!
 <summary>12:00 PM - 3:00 PM: Wedding Party Men's Hamam - <a href="https://www.google.com/maps/place/K%C4%B1l%C4%B1%C3%A7+Ali+Pa%C5%9Fa+Hamam/@41.0261946,28.9780568,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab9de9ff3602d:0x8cf6a50e4ca2fbc2!8m2!3d41.0261906!4d28.9806317!16s%2Fg%2F1hhxkp_df?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Kılıç Ali Paşa Hamam</a></summary>
 
 <p>The groom and men of the wedding party will enjoy a traditional Turkish bath experience.</p>
+<p>Spots are limited to the wedding party - we will reach out to invite folks. Otherwise - explore the city!</p>
 
 <p>📍 <strong>Location:</strong> TBD<br>
 ⏰ 4:30 PM - 6:30 PM<br>
@@ -141,19 +140,14 @@ Wedding!
 
 <details>
 <summary>1:00 PM - 6:00 PM: Wedding Party preparations - <a href="https://www.google.com/maps/place/Liya+All/@40.8502673,29.1386105,17z/data=!3m1!4b1!4m6!3m5!1s0x14cac36ff6d8fded:0xee2fc4a1d52b5f9f!8m2!3d40.8502633!4d29.1411854!16s%2Fg%2F11sfrx2sq_?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Liya</a></summary>
-<p>Join us for a traditional Turkish wedding ceremony.</p>
-
-<p>📍 <strong>Location:</strong> TBD<br>
-⏰ 10:00 AM - 12:00 PM<br>
-👗 Smart casual</p>
+<p>Close friends & family will join the bridal couple on the island in advance of the wedding to get ready!</p>
 </details>
 
 <details>
-<summary>7:00 PM - 1:30 Wedding Ceremony - <a href="https://www.google.com/maps/place/Liya+All/@40.8502673,29.1386105,17z/data=!3m1!4b1!4m6!3m5!1s0x14cac36ff6d8fded:0xee2fc4a1d52b5f9f!8m2!3d40.8502633!4d29.1411854!16s%2Fg%2F11sfrx2sq_?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Liya</a></summary>
-<p>Join us for a traditional Turkish wedding ceremony.</p>
+<summary>6:00 PM - 1:30 Wedding Ceremony - <a href="https://www.google.com/maps/place/Liya+All/@40.8502673,29.1386105,17z/data=!3m1!4b1!4m6!3m5!1s0x14cac36ff6d8fded:0xee2fc4a1d52b5f9f!8m2!3d40.8502633!4d29.1411854!16s%2Fg%2F11sfrx2sq_?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Liya</a></summary>
+<p>Join us for a non-traditional Turkish wedding ceremony.</p>
 
-<p>📍 <strong>Location:</strong> TBD<br>
-⏰ 10:00 AM - 12:00 PM<br>
-👗 Smart casual</p>
+<p>📍 <strong>Location:</strong> Ferry leaves from Bostanci Harbour - more precise directions to come.<br>
+👗 Summer Wedding Attire</p>
 </details>
 
