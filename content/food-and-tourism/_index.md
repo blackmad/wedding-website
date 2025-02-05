@@ -3,8 +3,6 @@ draft: false
 title: "Food and Tourism"
 ---
 
-# Tourism
-
 ## Sights
 
 The must-dos in Istanbul are pretty clear and worth it.

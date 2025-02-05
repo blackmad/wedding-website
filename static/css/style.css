@@ -36,7 +36,7 @@ html {
 /* VARIABLES */
 :root {
   --main-font: 'Raleway', sans-serif;
-  --serif-font: 'Raleway', serif;
+  --serif-font: 'Lora', serif;
 
   --primary: #C4F2F2;
   --primary-content: #252329;
@@ -677,4 +677,86 @@ subheading2::after {
   width: 100%;
   height: auto;
   padding: 1rem 0;
+}
+
+.food-and-tourism {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.food-and-tourism .content {
+  font-family: var(--serif-font);
+  line-height: 1.2;
+  color: var(--copy);
+  margin: 0 auto;
+  padding: 0 1rem;
+  max-width: 800px;
+}
+
+.food-and-tourism h2 {
+  font-family: var(--serif-font);
+  font-size: 1.75rem;
+  color: var(--copy);
+  margin: 2rem 0 1rem;
+  font-weight: 600;
+}
+
+.food-and-tourism h3 {
+  font-family: var(--serif-font);
+  font-size: 1.4rem;
+  color: var(--copy-light);
+  margin: 1.5rem 0 1rem;
+  font-weight: 500;
+}
+
+.food-and-tourism p {
+  margin-bottom: 1.2rem;
+}
+
+.food-and-tourism ul {
+  list-style: none;
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.food-and-tourism ul li {
+  position: relative;
+  padding-left: 1.5rem;
+  margin-bottom: 0.8rem;
+  font-size: 1.1rem;
+}
+
+.food-and-tourism ul li::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  color: var(--primary);
+  font-size: 1.4em;
+  line-height: 1;
+}
+
+.food-and-tourism a {
+  color: var(--secondary);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+.food-and-tourism a:hover {
+  border-bottom-color: var(--secondary);
+}
+
+@media only screen and (min-width: 800px) {
+  .food-and-tourism {
+    padding: 0 2rem;
+  }
+  
+  .food-and-tourism h2 {
+    font-size: 2rem;
+  }
+  
+  .food-and-tourism h3 {
+    font-size: 1.5rem;
+  }
 }
