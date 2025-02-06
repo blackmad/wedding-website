@@ -73,7 +73,7 @@ Just a 3-minute walk from Hagia Sophia<br>
 </details>
 
 <subheading>
-Monday, July 1st
+Monday, June 30th
 </subheading>
 
 <subheading2>
@@ -131,7 +131,7 @@ A day in Istanbul!
 </details>
 
 <subheading>
-Tuesday, July 2nd
+Tuesday, July 1st
 </subheading>
 
 <subheading2>
