@@ -7,11 +7,7 @@ title: "Travel Advice"
 
 ## Transport
 
-Getting to the venue requires taking a private ferry from Bostanci Harbour. *You cannot reach the island by public ferry.*
- <br>
-<br>
-
-The ferry leaves from Bostanci harbour at 6pm. Do not be late!
+A private boat, provided by the venue, leaves from Bostanci Harbour to the island each day at 550 pm. Don’t miss it!  *You cannot reach the island by public ferry.* If you do miss it, call us!
 
 ## Getting Around Istanbul
 
@@ -73,17 +69,27 @@ If you stay on the European side, be prepared on the night of the wedding to tak
 
 # Accommodation
 
-We are still working on making accommodation recommendations. 
+We are still working on the full list of accommodation recommendations. 
 
 ## Anatolian Side
 
 - [Wyndham Grand Istanbul Kalamis Marina Hotel](https://www.guestreservations.com/wyndham-grand-istanbul-kalamis-marina-hotel/booking?utm_source=google&utm_medium=cpc&utm_campaign=990032573&gad_source=1&gclid=CjwKCAiAtYy9BhBcEiwANWQQLwhlHiJAd-g4Sp8EW5L_OTaWN5lJ-CO72C7Zfb-aKZ5U1Fv5eeNP5hoCa1QQAvD_BwE)
     - This is where we will be staying!
-- [Doubletree Moda](https://www.hilton.com/en/hotels/istimdi-doubletree-istanbul-moda/)
+    - They have provided special discounted rates for our guests, which you can use by mentioning "Yuva and David’s Wedding" when booking.
+    - 📞 Reservation Details - Call: +90 216 400 00 00
+
 - [Hotel Suadiye](https://www.guestreservations.com/hotel-suadiye-istanbul/booking?utm_source=google&utm_medium=cpc&utm_campaign=990032573&gad_source=1&gclid=CjwKCAiAqfe8BhBwEiwAsne6gSVz4WQOnSEc6CKwnTdIhi65RVAKJUIzfdH-ojDI-rxwMUEXwOZC6hoC3sAQAvD_BwE)
+    - Hotel Suadiye is on the Anatolian side, closer to Bostancı harbor, and right on the coastline—within walking distance to Bağdat Caddesi (Cadde) a vibrant shopping, restaurant scene I love to spend time. If you're looking for a stay in this area, they are offering a special rate for our guests.
+
+    - 📌 Reservation Details: info@hotelsuadiye.com
+    - 💰 Special Rate: Kara (City) View Room: €150 (Single or Double) – includes breakfast & VAT
+    - If you're interested, you can reach out to them directly via email to book, giving our names.
+
+- [Doubletree Moda](https://www.hilton.com/en/hotels/istimdi-doubletree-istanbul-moda/)
 
 ## European Side
 
 - Recommendations to come, but you are all smart experienced travelers who can read reviews.
+- This side seems to have more options, and is more convenient to much of the sightseeing.
 
 Take a look at the [Food and Tourism](../food-and-tourism) page for recommendations.

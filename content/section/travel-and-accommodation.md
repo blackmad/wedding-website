@@ -40,7 +40,9 @@ There are many more hotels & airbnbs on the European side, but some accommodatio
 
 <br>
 
-Staying on the European side is fine - be prepared on the wedding day to leave two hours before the ferry to make sure you don't miss the boat!
+Staying on the European side is fine - be prepared on the wedding day to leave ~two hours before the ferry to make sure you don't miss the boat!
+
+A private boat leaves from Bostanci Harbour to the wedding venue at 550 pm. Don’t miss it!  *You cannot reach the island by public ferry.* If you do miss it, call us!
 
 <br>
 
