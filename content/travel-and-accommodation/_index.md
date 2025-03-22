@@ -69,7 +69,6 @@ If you stay on the European side, be prepared on the night of the wedding to tak
 
 # Accommodation
 
-We are still working on the full list of accommodation recommendations. 
 
 ## Anatolian Side
 
@@ -89,7 +88,14 @@ We are still working on the full list of accommodation recommendations.
 
 ## European Side
 
-- Recommendations to come, but you are all smart experienced travelers who can read reviews.
-- This side seems to have more options, and is more convenient to much of the sightseeing.
+- This side seems to have more options, and is more convenient to much of the sightseeing *but* on the wedding day, travel to and from the harbour where the boats leaves will be longer and more complicated (but still doable!)
+
+We will try to get some group rates for these hotels in the coming days:
+
+- [Pera Palace Hotel](https://www.google.com/maps/place/Pera+Palace+Hotel/@41.0310396,28.9709037,17z/data=!3m1!4b1!4m11!3m10!1s0x14cab9e04e7c644b:0x727bcda761f172c3!5m4!1s2025-06-22!2i9!4m1!1i2!8m2!3d41.0310396!4d28.9734786!16s%2Fm%2F0278tdn?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNjQwSAFQAw%3D%3D)
+- [Radisson Blu, Beyoglu](https://www.google.com/maps/place/Radisson+Blu+Hotel,+Istanbul+Pera/@41.0310396,28.9709037,17z/data=!4m11!3m10!1s0x14cab9e10da25167:0x7915a81710f7e866!5m4!1s2025-06-22!2i9!4m1!1i2!8m2!3d41.0304097!4d28.9720473!16s%2Fg%2F124yq5pdd?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNjQwSAFQAw%3D%3D)
+- [Tomtom Suites](https://www.google.com/maps/place/Tomtom+Suites,+an+SLH+Hotel/@41.0302364,28.9751975,16z/data=!4m11!3m10!1s0x14cab9df02e9fd71:0xee29e6c84e232b1c!5m4!1s2025-06-22!2i9!4m1!1i2!8m2!3d41.0302364!4d28.9777724!16s%2Fg%2F1w9357d0?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoJLDEwMjExNjQwSAFQAw%3D%3D)
+
+We generally recommend this area of the European side as lively, tourist-friendly but not too touristy, convenient, clean, etc. Other hotels and airbnbs around here should be good too.
 
 Take a look at the [Food and Tourism](../food-and-tourism) page for recommendations.
