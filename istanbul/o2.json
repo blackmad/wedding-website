@@ -1,0 +1,361 @@
+{
+  "waypoints": [
+    {
+      "latitude": 41.0337874,
+      "longitude": 28.9779527,
+      "name": "İstiklal Cd.",
+      "description": "A wide boulevard to stroll down for shops, restaurants and LIFE.",
+      "place_id": "ChIJ93xst2G3yhQRAfesfO52mtU",
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ93xst2G3yhQRAfesfO52mtU",
+      "place_name": "İstiklal Caddesi",
+      "formatted_address": "İstiklal Cd., Beyoğlu/İstanbul, Türkiye",
+      "address_components": [
+        {
+          "long_name": "İstiklal Caddesi",
+          "short_name": "İstiklal Cd.",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Beyoğlu",
+          "short_name": "Beyoğlu",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "İstanbul",
+          "short_name": "İstanbul",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Türkiye",
+          "short_name": "TR",
+          "types": [
+            "country",
+            "political"
+          ]
+        }
+      ],
+      "website": null,
+      "phone": null,
+      "rating": 4.6,
+      "rating_count": 4542,
+      "price_level": null,
+      "categories": [
+        "route"
+      ],
+      "photo": {
+        "remote_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AeeoHcKADTdv53ePj4aW6U63YKimUwJq0oMuYec_uqmcXJOpEJYMqSa22aLKcU1OTeu3fwtqGB1yZzDe7aFemzBryC5L-8LB54gHEgc2r0pd9E9y7eke1eEU35EJ8vKLAAidgcANwzcDPg7-4VsG_d7_9y-_l7RZP6XM5g3ZmPZxhMi7YDtGaYRHAKjSJxRnhWa03aSnN9LWW7-11JsaKpy8G6oBtaEsVbQAlF_IYM8M2VvQm1IGHiZuTZaxjoUgC9FulNsbUWKILT9U13FxkqpM4J7DY9YBeemQCcLGXeQRLFbk2HB-fYslT0HTlq0vh8xjw2SKdBTbHjYlQJX399vA0ihYVIkGrqnrG6a8sbEAroMZHSlYqdtqbNWZqzC5yUvQZf1RerBwDvRWIs40Wqlc-8Ox5KLHJ-xgtc79MqXc-6I5AyYc8rjwVbs2Ya-u959tJmryU4MTzM-weiJLUgERA85ccu5u-X1F29Ag2-J_mNgDowbag5ZjU1VwRBb7CNPnKG5qxNyy8eWl49O3ekl5f9PWJq60S2xue17lMkecan16JHiEhmoachP8g5Ao2bGP1_1GJgsDR7-lPnDgRatkYfPJYkdvovtpfZgGDh13bKYZPWhCoRQMYJWYGDB1kmDWnxuw8SQ1&key=AIzaSyDatAG3RSFl4ULSKseO7ciADYWgYi_1B64",
+        "local_path": "i̇stiklal_caddesi_5acc979a660c7f4e7955fa2b8a714c47.jpg",
+        "width": 1908,
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117372950316860755535\">Ata Pank</a>"
+        ]
+      },
+      "photo_available": true
+    },
+    {
+      "latitude": 41.0407461,
+      "longitude": 28.9786765,
+      "name": "Arter",
+      "description": "Somewhat out of the way, beautiful very contemporary Turkish art museum funded by the only good billionaire in the world - the Koç family who is single-handedly trying to keep Turkey from becoming entirely conservative fascist.",
+      "place_id": "ChIJByq0j-C5yhQRiR126Z5YBAo",
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJByq0j-C5yhQRiR126Z5YBAo",
+      "place_name": "Arter",
+      "formatted_address": "Yenişehir, Irmak Cd. No:13, 34435 Beyoğlu/İstanbul, Türkiye",
+      "address_components": [
+        {
+          "long_name": "No:13",
+          "short_name": "No:13",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Irmak Caddesi",
+          "short_name": "Irmak Cd.",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Yenişehir",
+          "short_name": "Yenişehir",
+          "types": [
+            "administrative_area_level_4",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Beyoğlu",
+          "short_name": "Beyoğlu",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "İstanbul",
+          "short_name": "İstanbul",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Türkiye",
+          "short_name": "TR",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "34435",
+          "short_name": "34435",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "website": "https://www.arter.org.tr/",
+      "phone": "(0212) 708 58 00",
+      "rating": 4.6,
+      "rating_count": 2806,
+      "price_level": null,
+      "categories": [
+        "museum",
+        "point_of_interest",
+        "establishment"
+      ],
+      "open_now": true,
+      "opening_hours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM – 7:00 PM",
+        "Wednesday: 11:00 AM – 7:00 PM",
+        "Thursday: 11:00 AM – 8:00 PM",
+        "Friday: 11:00 AM – 7:00 PM",
+        "Saturday: 11:00 AM – 7:00 PM",
+        "Sunday: 11:00 AM – 7:00 PM"
+      ],
+      "photo": {
+        "remote_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AeeoHcIEqSK948DHhh4MkbQ4XME65FLyklhyI1Mi1mRRyFOoVAmvi6aGkmUF32GaY-fAH5zO1farTWVTGmshK4wLDBkbXVV16cyb0fV4hGhzH908KloQvVxgbtP0sh7ymQzJwY7O-ApIYy9fKRUxmRXMu2eI_Bnh4UWWpFVNLTDSYYX4hZnlyRIK7wBAn103uVU2w0N42JcevtS_GQ9de-Ybb5V-JjtCcYAl59eeRuX2f7g89zEMdZK3DBEQa-D_-xEtEIIVr8MHDH5EKpIbKxBAYfGit1P7NX5p86SZuyxb_KV0VrpwCLDvRIXXp34in8MQa9I_eLx_nhw&key=AIzaSyDatAG3RSFl4ULSKseO7ciADYWgYi_1B64",
+        "local_path": "arter_e1493aeb41027badbe122eba544ba941.jpg",
+        "width": 4000,
+        "height": 2880,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109470751475090825239\">Arter</a>"
+        ]
+      },
+      "photo_available": true
+    },
+    {
+      "latitude": 41.031773,
+      "longitude": 28.9793518,
+      "name": "Tavern",
+      "description": "Another cool looking music & cocktail bar https://www.instagram.com/tavern____/?hl=en",
+      "place_id": "ChIJp0-LzmG3yhQRVsl77eroS1w",
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJp0-LzmG3yhQRVsl77eroS1w",
+      "place_name": "Tavern",
+      "formatted_address": "A, Firuzağa, Hayriye Cd. No:16/A, 34425 Beyoğlu/İstanbul, Türkiye",
+      "address_components": [
+        {
+          "long_name": "A",
+          "short_name": "A",
+          "types": [
+            "point_of_interest",
+            "establishment"
+          ]
+        },
+        {
+          "long_name": "No:16/A",
+          "short_name": "No:16/A",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Hayriye Caddesi",
+          "short_name": "Hayriye Cd.",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Firuzağa",
+          "short_name": "Firuzağa",
+          "types": [
+            "administrative_area_level_4",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Beyoğlu",
+          "short_name": "Beyoğlu",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "İstanbul",
+          "short_name": "İstanbul",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Türkiye",
+          "short_name": "TR",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "34425",
+          "short_name": "34425",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "website": "http://www.tavern.fyi/",
+      "phone": "0544 252 00 62",
+      "rating": 4.2,
+      "rating_count": 250,
+      "price_level": null,
+      "categories": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "open_now": false,
+      "opening_hours": [
+        "Monday: 6:00 PM – 2:00 AM",
+        "Tuesday: 6:00 PM – 2:00 AM",
+        "Wednesday: 6:00 PM – 2:00 AM",
+        "Thursday: 6:00 PM – 2:00 AM",
+        "Friday: 6:00 PM – 2:00 AM",
+        "Saturday: 6:00 PM – 2:00 AM",
+        "Sunday: 4:00 PM – 12:00 AM"
+      ],
+      "photo": {
+        "remote_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AeeoHcLqVkKuAm9nB-IBuhH8nh9VjvnTxa1aLe0cIHE86oDQyYfNEuMI089N3H7yYSJfLrxhTkLEgf77fSM8lSLMyY2oLmbBJCXdRjdsIgzuza0j7Tw1xPJBnU044aS-cGr2lws0vBZpRMKxIOmnOAgC2UsSs3mpBZfN_TTrfYHx-GDikT2zQIwtd7ILKnGHySmshLtgjtv-U77niDgR7czPf1oDEO4QjhRAJVfcI0Wc1AXa32-6unOrRn-przZPMNPCQeiGfGZ83IUkVFjw28_xRPt8cg8xdU7GftA7g3-7Bbju1w6TUxN9ztdeqz01_Ur7MIBDEa4qWHs&key=AIzaSyDatAG3RSFl4ULSKseO7ciADYWgYi_1B64",
+        "local_path": "tavern_bf9bd2286be1c562ce21c442495cfcc1.jpg",
+        "width": 3345,
+        "height": 5472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102767881472039428646\">Tavern</a>"
+        ]
+      },
+      "photo_available": true
+    },
+    {
+      "latitude": 41.031889799999995,
+      "longitude": 28.9796721,
+      "name": "NOH Radio Bar",
+      "description": "Sadly haven't made it here, but seems like a hip place for DJ sets late at night - https://www.instagram.com/nohradio/?hl=en - also next to Tavern",
+      "place_id": "ChIJl5AdJZu3yhQRxdkf7c1iYxM",
+      "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJl5AdJZu3yhQRxdkf7c1iYxM",
+      "place_name": "NOH Radio Bar",
+      "formatted_address": "Firuzağa, Hayriye Cd. No:18, 34425 Beyoğlu/İstanbul, Türkiye",
+      "address_components": [
+        {
+          "long_name": "No:18",
+          "short_name": "No:18",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Hayriye Caddesi",
+          "short_name": "Hayriye Cd.",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Firuzağa",
+          "short_name": "Firuzağa",
+          "types": [
+            "administrative_area_level_4",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Beyoğlu",
+          "short_name": "Beyoğlu",
+          "types": [
+            "administrative_area_level_2",
+            "political"
+          ]
+        },
+        {
+          "long_name": "İstanbul",
+          "short_name": "İstanbul",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Türkiye",
+          "short_name": "TR",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "34425",
+          "short_name": "34425",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "website": "https://www.instagram.com/nohradio/",
+      "phone": null,
+      "rating": 4.1,
+      "rating_count": 380,
+      "price_level": null,
+      "categories": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "open_now": true,
+      "opening_hours": [
+        "Monday: 12:00 PM – 2:30 AM",
+        "Tuesday: 12:00 PM – 2:30 AM",
+        "Wednesday: 12:00 PM – 2:30 AM",
+        "Thursday: 12:00 PM – 2:30 AM",
+        "Friday: 12:00 PM – 2:30 AM",
+        "Saturday: 12:00 PM – 2:30 AM",
+        "Sunday: 12:00 PM – 2:30 AM"
+      ],
+      "photo": {
+        "remote_url": "https://maps.googleapis.com/maps/api/place/photo?maxwidth=800&photoreference=AeeoHcLqki-9ZiehrLr6usGctyfJqmpQPkltnUcwjFDksGO7muCBtKLPbSPWievWPs3w7BWvfxak_9WYryZgFFzIi0Q8aTwEpoc1L24iBP2uR3YEbXIF6s32Ex4HAdC1X7ARZ44q3TGo__LlXb7NPkPfK-d5URrzepG6bg9dWJr_1XTKmKowABMBb_JjoCP517WaAiQiq8BgGVoA6uUCgeHdxlk47dfY3pweLhzkJavEePg3DWuPpE8UUG8WrB-MZagbU_zyYYK0ou3C-sUd07-wBa72ZxrCQ4pDJQMeyytbo-pkcKRzbWsmzVpeA6DNn-lnEcweJwX2OCTUJathYMT7nsFeC4tbzNYszxXMoIKgELJo8uDz-px52O9l8xTek1u1KO5aZN49zuIwhROK6nyjU49iZl46oatiShIj9hb_M-XlgzwnqP1ZgvqxL6vh-LGEgrxTDgsq4CcOS7RMdn8LNmnaNP72w_ACsSQ1fDQ_dGbpEJGgpsAh_Lq-0RZKXHP-idoq9J_ngt4sISFdZNB_xOmfNf1B2peaX-jusZyrL2p-qkuj5VtKndRvbTfRJnquhV1sPONQjUQwQpmMAOdrxXz0feDFKyiqDzShSHgDtiEQPAgH98yevXBloCijIvgG5Su6-Q&key=AIzaSyDatAG3RSFl4ULSKseO7ciADYWgYi_1B64",
+        "local_path": "noh_radio_bar_5db185cce3b4f442009f4bba22298f74.jpg",
+        "width": 3024,
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104560906896937637045\">LuxComp Mel</a>"
+        ]
+      },
+      "photo_available": true
+    }
+  ],
+  "count": 5,
+  "source": "European_Side.gpx",
+  "image_directory": "place_images"
+}
