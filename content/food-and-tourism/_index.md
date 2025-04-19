@@ -3,54 +3,9 @@ draft: false
 title: "Food and Tourism"
 ---
 
-## Sights
+## Detailed & Highly Opinionated Guides
+For a detailed map and guide to places on the European side of Istanbul, check out our <b>[Istanbul European Side Guide](/food-and-tourism/istanbul-european/).</b>
 
-The must-dos in Istanbul are pretty clear and worth it.
-
-<br>
-<br>
-
-⛴︎ Take a boat tour on the Bosphorus Strait! ⛴︎
-
-<br>
-These are all very close to each other:
-<br><br>
-
-- Hagia Sophia - take fifteen minutes, but you might need to wait a bit if you end up going during prayer time
-- Blue Mosque - same as above
-- Ancient history museum - 
-- Basilica Cistern - beautiful moody underground caves
-
-
-<br>
-<br>
-
-- İstanbul Arkeoloji Müzeleri - Yuva loves this museum.
-- Grand Bazaar and Egyptian Spice Bazaar - I don't know if I'd call this a must-do, but it's fun to wander through
-
-<br>
-<br>
-
-The palaces:<br><br>
-- Topkapi Palace - David thought this was the more interesting of the two, as it dates back to earlier Ottoman times and feels it
-- Dolmabahçe Palace - Incredibly gorgeous modern palace, on par with the great palaces of Europe
-
-<br>
-<br>
-
-🚶‍♀️ Walk around Galata 🚶‍♂️ <br/>
-🚶‍♀️ Walk around Moda 🚶‍♂️
-
-<br>
-<br>
-
-Art!
-- Istanbul Modern - modern art museum (we'll be going here on Sunday as a group)
-- Pera Museum - small contemporary gallery
-- Arter - contemporary art museum funded by the rich liberal family of Turkey
-- Salt - contemporary art museum
-
-For a detailed map and guide to places on the European side of Istanbul, check out our [Istanbul European Side Guide](/food-and-tourism/istanbul-european/).
 
 ## Food!
 
