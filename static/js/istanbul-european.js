@@ -1207,6 +1207,7 @@ let data = {
         "latitude": 41.0115195,
         "longitude": 28.983378899999998,
         "name": "Topkapi Palace Museum",
+        "highly_recommended": true,
         "description": "The other big palace to visit - this is the ottoman one, it's much weirder (and therefore more interesting) to me than Dohmabace - feels like one could imagine some scene in Star Wars happening here.",
         "place_id": "ChIJM_ilr7i5yhQRAFMBw0MZqhU",
         "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJM_ilr7i5yhQRAFMBw0MZqhU",
@@ -1259,7 +1260,7 @@ let data = {
         "rating_count": 104932,
         "price_level": null,
         "categories": [
-          "museum",
+        //   "museum",
           "tourist_attraction",
           "point_of_interest",
           "establishment"
@@ -1768,6 +1769,7 @@ let data = {
         "latitude": 41.0321309,
         "longitude": 28.9761129,
         "name": "Salt Beyoğlu",
+        "highly_recommended": true,
         "description": "Beautiful Multi-floor art gallery including films, located right on Istikai which is a bustling commercial boulevard (formerly one of the cooler more progressive parts of Istanbul)",
         "place_id": "ChIJT3JZAGC3yhQR_dj-LYbB5bY",
         "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJT3JZAGC3yhQR_dj-LYbB5bY",
@@ -1967,6 +1969,7 @@ let data = {
         "latitude": 41.0384244,
         "longitude": 28.983097899999997,
         "name": "Piramid Sanat",
+        "highly_recommended": true,
         "description": "A moderately? very? famous Turkish artist's gallery and cafe. If you're lucky, he'll be there with his giant dog and will pull his monographs off the shelves and start showing you photos of his work including lots of street art photography. Art collection is not bad. Again, sort of a wonderkamer/warehouse vibe.",
         "place_id": "ChIJUw_Q6mW3yhQR6pV1eBu3tPg",
         "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJUw_Q6mW3yhQR6pV1eBu3tPg",
@@ -2445,6 +2448,7 @@ let data = {
         "latitude": 41.032955,
         "longitude": 28.981351,
         "name": "Kale Antik",
+        "highly_recommended": true,
         "description": "There's a lot of great antique stores on this street.",
         "place_id": "ChIJpZTzeGG3yhQRb21jzhEL6hY",
         "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJpZTzeGG3yhQRb21jzhEL6hY",
@@ -2547,6 +2551,7 @@ let data = {
       {
         "latitude": 41.030848999999996,
         "longitude": 28.979854,
+        "highly_recommended": true,
         "name": "The Museum of Innocence",
         "description": "This museum is incredibly David-coded.\n\nThe museum exists both in fiction - the book Museum of Innocence by Orhan Pamuk, and now in real life. It blurs the line between treating the book's narrative as fact or fiction and Orhan's role in it. It's also entirely in the wonderkamer / assemblage / vitrine style I love so much.",
         "place_id": "ChIJeVQDXt-5yhQRwVR-geMJ_-s",

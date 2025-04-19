@@ -1,0 +1,95 @@
+    .category-section {
+        margin-bottom: 3rem;
+    }
+
+    .category-title {
+        font-size: 1.8rem;
+        margin-bottom: 1.5rem;
+        color: var(--primary-color);
+        border-bottom: 2px solid var(--accent-color);
+        padding-bottom: 0.5rem;
+    }
+
+    .cards-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 2rem;
+    }
+
+    .card {
+        background: var(--card-background);
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s ease-in-out;
+        text-decoration: none;
+        color: inherit;
+        display: block;
+    }
+
+    .card.highly-recommended {
+        border: 2px solid var(--secondary-light);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+        position: relative;
+        background-color: rgba(var(--secondary-light-rgb), 0.05);
+    }
+
+    .card.highly-recommended::before {
+        content: "★ Highly Recommended";
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        background-color: var(--secondary-light);
+        color: white;
+        padding: 6px 12px;
+        border-radius: 4px;
+        font-size: 0.85rem;
+        font-weight: bold;
+        /* z-index: 1; */
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    .card:hover {
+        transform: translateY(-4px);
+    }
+
+    .card-image {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+    }
+
+    .card-content {
+        padding: 1.5rem;
+    }
+
+    .card-title {
+        font-size: 1.25rem;
+        margin-bottom: 0.5rem;
+        color: var(--primary);
+    }
+
+    .card-description {
+        color: var(--primary-content);
+        font-size: 0.95rem;
+        margin-bottom: 1rem;
+    }
+
+    .card-info {
+        font-size: 0.9rem;
+        color: var(--primary-content);
+    }
+
+    .card-info p {
+        margin-bottom: 0.25rem;
+    }
+
+    @media (max-width: 768px) {
+        #map {
+            height: 300px;
+        }
+
+        .cards-grid {
+            grid-template-columns: 1fr;
+        }
+    }

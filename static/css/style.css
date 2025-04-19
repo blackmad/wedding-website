@@ -47,6 +47,7 @@ html {
   --secondary-content: #ffffff;
   --secondary-dark: #ff5545;
   --secondary-light: #ff897d;
+  --secondary-light-rgb: 255, 137, 125;
 
   --background: #FAF8F0;
   --foreground: #FAF8F0;

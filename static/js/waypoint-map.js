@@ -73,7 +73,7 @@ function categorizeAndDisplayPlaces() {
             <h2 class="category-title">${category}</h2>
             <div class="cards-grid">
                 ${places.map(place => `
-                    <a href="${place.google_maps_link}" target="_blank" class="card">
+                    <a href="${place.google_maps_link}" target="_blank" class="card ${place.highly_recommended ? 'highly-recommended' : ''}">
                         ${place.photo_available ? `
                             <img src="/images/places/${place.photo.local_path}" alt="${place.name}" class="card-image">
                         ` : ''}
