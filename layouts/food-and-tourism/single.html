@@ -1,0 +1,12 @@
+{{ define "main" -}}
+{{ partial "shared/navigation.html" . }}
+
+<section class="section light standalone food-and-tourism">
+    <h1 class="page__section__heading">{{.Page.Title}}</h1>
+    <div class="content">   
+        {{ .Page.Content }}
+    </div>
+</section>
+
+{{ partial "shared/footer.html" . }}
+{{- end }} 

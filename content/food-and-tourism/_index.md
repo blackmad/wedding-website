@@ -50,6 +50,8 @@ Art!
 - Arter - contemporary art museum funded by the rich liberal family of Turkey
 - Salt - contemporary art museum
 
+For a detailed map and guide to places on the European side of Istanbul, check out our [Istanbul European Side Guide](/food-and-tourism/istanbul-european/).
+
 ## Food!
 
 Eat everything. Everything in Turkey is delicious.
