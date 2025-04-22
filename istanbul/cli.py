@@ -2,9 +2,9 @@
 """
 GPX to JSON Geocoding and Places Tool
 
-This script parses a GPX file, extracts waypoints, enriches them with data
-from both Google Maps Geocoding API and Places API, downloads the first image
-for each place (with caching), and saves results to a JSON file.
+This script parses a GPX file or text file, extracts waypoints or search queries, 
+enriches them with data from both Google Maps Geocoding API and Places API, 
+downloads the first image for each place (with caching), and saves results to a JSON file.
 """
 
 import argparse
@@ -19,7 +19,7 @@ import urllib.parse
 import urllib.request
 import xml.etree.ElementTree as ET
 from pathlib import Path
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Optional, Tuple, Union
 
 # Constants
 GEOCODING_HOST = "maps.googleapis.com"
@@ -31,10 +31,11 @@ PLACES_SEARCH_PATH = "/maps/api/place/findplacefromtext/json"
 
 
 class GeocodingCLI:
-    def __init__(self, api_key: str, image_dir: str = "place_images"):
+    def __init__(self, api_key: str, image_dir: str = "place_images", interactive: bool = False):
         """Initialize with the Google API key and image directory."""
         self.api_key = api_key
         self.image_dir = image_dir
+        self.interactive = interactive
         self.geocoding_conn = http.client.HTTPSConnection(GEOCODING_HOST)
         self.places_conn = http.client.HTTPSConnection(PLACES_HOST)
         
@@ -142,8 +143,8 @@ class GeocodingCLI:
             root = tree.getroot()
             
             # Handle namespaces in GPX files
-            ns = {"": root.tag.split("}")[0].strip("{")} if "}" in root.tag else ""
-            prefix = "{" + ns[""] + "}" if ns else ""
+            ns = {"": root.tag.split("}")[0].strip("{")} if "}" in root.tag else {}
+            prefix = "{" + ns.get("", "") + "}" if ns else ""
             
             waypoints = []
             
@@ -167,23 +168,65 @@ class GeocodingCLI:
             print(f"Error parsing GPX file: {e}", file=sys.stderr)
             sys.exit(1)
 
-    def find_place_by_text(self, place_name: str, lat: float, lon: float) -> Optional[str]:
+    def parse_text_file(self, text_file: str) -> List[Dict]:
+        """Parse a text file with search queries and user comments."""
+        try:
+            with open(text_file, 'r', encoding='utf-8') as f:
+                lines = f.readlines()
+            
+            waypoints = []
+            i = 0
+            while i < len(lines):
+                # Skip empty lines
+                while i < len(lines) and not lines[i].strip():
+                    i += 1
+                
+                if i >= len(lines):
+                    break
+                
+                # First line is the search query
+                search_query = lines[i].strip()
+                i += 1
+                
+                # Second line is the user comment (if available)
+                user_comment = ""
+                if i < len(lines) and lines[i].strip():
+                    user_comment = lines[i].strip()
+                    i += 1
+                
+                waypoint = {
+                    'name': search_query,
+                    'description': user_comment,
+                    'latitude': None,
+                    'longitude': None
+                }
+                
+                waypoints.append(waypoint)
+            
+            return waypoints
+        except Exception as e:
+            print(f"Error parsing text file: {e}", file=sys.stderr)
+            sys.exit(1)
+
+    def find_place_by_text(self, place_name: str, lat: Optional[float] = None, lon: Optional[float] = None) -> Optional[str]:
         """Search for a place by name and location using the Places API."""
         try:
-            # Include the location in the search to improve accuracy
-            location_bias = f"circle:1000@{lat},{lon}"
+            # Include the location in the search to improve accuracy if coordinates are provided
+            location_bias = f"circle:1000@{lat},{lon}" if lat is not None and lon is not None else None
             
             # Prepare the request
-            params = urllib.parse.urlencode({
+            params = {
                 'input': place_name,
                 'inputtype': 'textquery',
                 'fields': 'place_id',
-                'locationbias': location_bias,
                 'key': self.api_key
-            })
+            }
+            
+            if location_bias:
+                params['locationbias'] = location_bias
             
             # Make the request
-            self.places_conn.request("GET", f"{PLACES_SEARCH_PATH}?{params}")
+            self.places_conn.request("GET", f"{PLACES_SEARCH_PATH}?{urllib.parse.urlencode(params)}")
             response = self.places_conn.getresponse()
             
             if response.status != 200:
@@ -206,22 +249,19 @@ class GeocodingCLI:
         """Get place ID and details using a multi-step approach."""
         enriched = waypoint.copy()
         
-        # Skip if we don't have coordinates
-        if not waypoint['latitude'] or not waypoint['longitude']:
-            return enriched
+        # If we have coordinates, use them for geocoding
+        has_coordinates = waypoint['latitude'] is not None and waypoint['longitude'] is not None
         
         try:
-
-            
             # STEP 1: try text search with name    
             place_id = self.find_place_by_text(
                 waypoint['name'],
-                waypoint['latitude'], 
-                waypoint['longitude']
+                waypoint['latitude'] if has_coordinates else None, 
+                waypoint['longitude'] if has_coordinates else None
             )
 
-            # STEP 2: If that fails, Try geocoding API with coordinates
-            if not place_id:
+            # STEP 2: If that fails and we have coordinates, Try geocoding API with coordinates
+            if not place_id and has_coordinates:
                 place_id = self.get_place_id_from_coords(
                     waypoint['latitude'], 
                     waypoint['longitude']
@@ -279,7 +319,7 @@ class GeocodingCLI:
 
     def get_place_details(self, place_id: str, place_name: str) -> Dict:
         """Get detailed place information including photos from Google Places API."""
-        place_info = {}
+        place_info: Dict = {}
         
         try:
             # Prepare the request
@@ -367,6 +407,10 @@ class GeocodingCLI:
         for idx, waypoint in enumerate(waypoints, 1):
             print(f"Processing waypoint {idx}/{len(waypoints)}: {waypoint['name']}")
             enriched = self.geocode_waypoint(waypoint)
+            
+            if self.interactive:
+                enriched = self.interactive_confirmation(enriched, waypoint)
+                
             enriched_waypoints.append(enriched)
             
             # Add a short delay to avoid hitting API rate limits
@@ -389,18 +433,86 @@ class GeocodingCLI:
             print(f"Error writing to output file: {e}", file=sys.stderr)
             sys.exit(1)
 
+    def process_text_file(self, text_file: str, output_file: str) -> None:
+        """Process the text file and write enriched data to JSON file."""
+        waypoints = self.parse_text_file(text_file)
+        print(f"Found {len(waypoints)} search queries in {text_file}")
+        
+        enriched_waypoints = []
+        for idx, waypoint in enumerate(waypoints, 1):
+            print(f"Processing query {idx}/{len(waypoints)}: {waypoint['name']}")
+            enriched = self.geocode_waypoint(waypoint)
+            
+            if self.interactive:
+                enriched = self.interactive_confirmation(enriched, waypoint)
+                
+            enriched_waypoints.append(enriched)
+            
+            # Add a short delay to avoid hitting API rate limits
+            if idx < len(waypoints):
+                time.sleep(0.2)
+        
+        # Write to JSON file
+        try:
+            with open(output_file, 'w', encoding='utf-8') as f:
+                json.dump({
+                    'waypoints': enriched_waypoints,
+                    'count': len(enriched_waypoints),
+                    'source': text_file,
+                    'image_directory': self.image_dir
+                }, f, indent=2, ensure_ascii=False)
+            
+            print(f"Successfully wrote {len(enriched_waypoints)} enriched queries to {output_file}")
+            print(f"Images saved to directory: {self.image_dir}")
+        except Exception as e:
+            print(f"Error writing to output file: {e}", file=sys.stderr)
+            sys.exit(1)
+
+    def interactive_confirmation(self, enriched: Dict, original: Dict) -> Dict:
+        """Allow user to confirm or modify the geocoding result."""
+        if not enriched.get('place_id'):
+            print(f"  No place found for: {original['name']}")
+            return enriched
+            
+        print(f"\n  Found: {enriched.get('place_name', 'Unknown')}")
+        print(f"  Address: {enriched.get('formatted_address', 'Unknown')}")
+        if enriched.get('google_maps_link'):
+            print(f"  Maps link: {enriched.get('google_maps_link')}")
+            
+        while True:
+            response = input("  Is this correct? (y/n/s): ").lower()
+            if response == 'y':
+                return enriched
+            elif response == 'n':
+                new_query = input("  Enter new search query: ")
+                if new_query:
+                    original['name'] = new_query
+                    return self.geocode_waypoint(original)
+                else:
+                    return enriched
+            elif response == 's':
+                return enriched
+            else:
+                print("  Please enter 'y' for yes, 'n' for no, or 's' to skip")
+
 
 def main():
-    parser = argparse.ArgumentParser(description='Convert GPX waypoints to enriched JSON using Google Geocoding and Places APIs')
-    parser.add_argument('gpx_file', help='Path to the GPX file')
+    parser = argparse.ArgumentParser(description='Convert GPX waypoints or text queries to enriched JSON using Google Geocoding and Places APIs')
+    parser.add_argument('input_file', help='Path to the GPX file or text file')
     parser.add_argument('output_file', help='Path to the output JSON file')
     parser.add_argument('--api-key', required=True, help='Google Maps API key')
     parser.add_argument('--image-dir', default='place_images', help='Directory to save downloaded images (default: place_images)')
+    parser.add_argument('--text-input', action='store_true', help='Treat input file as a text file with search queries and comments')
+    parser.add_argument('--interactive', action='store_true', help='Enable interactive confirmation after each geocode')
     
     args = parser.parse_args()
     
-    geocoder = GeocodingCLI(args.api_key, args.image_dir)
-    geocoder.process_gpx_file(args.gpx_file, args.output_file)
+    geocoder = GeocodingCLI(args.api_key, args.image_dir, args.interactive)
+    
+    if args.text_input:
+        geocoder.process_text_file(args.input_file, args.output_file)
+    else:
+        geocoder.process_gpx_file(args.input_file, args.output_file)
 
 
 if __name__ == "__main__":

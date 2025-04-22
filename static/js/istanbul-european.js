@@ -17,7 +17,7 @@ let data = {
         "name": "Yeni Mosque",
         "description": "Surprisingly, this mosque is widely regarded as being bluer than the blue mosque.",
         "place_id": "ChIJjaSroOu5yhQRnCP86smBM2U",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJjaSroOu5yhQRnCP86smBM2U",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJjaSroOu5yhQRnCP86smBM2U&query_place_id=ChIJjaSroOu5yhQRnCP86smBM2U",
         "place_name": "Yeni Mosque",
         "formatted_address": "Rüstem Paşa, Yeni Cami Cd. No:3, 34116 Fatih/İstanbul, Türkiye",
         "address_components": [
@@ -104,7 +104,7 @@ let data = {
         "name": "The Blue Mosque",
         "description": "Some people think this is more beautiful than Hagia Sofia - same deal applies - beautiful inside, takes five minutes to see, sometimes need to wait due to prayer times, I never fully understand the schedule.",
         "place_id": "ChIJ4fRwZb25yhQRpHwVijb3LeU",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ4fRwZb25yhQRpHwVijb3LeU",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ4fRwZb25yhQRpHwVijb3LeU&query_place_id=ChIJ4fRwZb25yhQRpHwVijb3LeU",
         "place_name": "The Blue Mosque",
         "formatted_address": "Binbirdirek, At Meydanı Cd No:10, 34122 Fatih/İstanbul, Türkiye",
         "address_components": [
@@ -191,7 +191,7 @@ let data = {
         "name": "Çukurcuma Hamamı",
         "description": "Alternative hamam (turkish ritual bath) - less fancy.",
         "place_id": "ChIJhxZ6Fca3yhQRvNfqa4zXroY",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJhxZ6Fca3yhQRvNfqa4zXroY",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJhxZ6Fca3yhQRvNfqa4zXroY&query_place_id=ChIJhxZ6Fca3yhQRvNfqa4zXroY",
         "place_name": "Çukurcuma Hamamı",
         "formatted_address": "Firuzağa, Çukur Cuma Cd. NO : 43, 34425 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -286,7 +286,7 @@ let data = {
         "name": "Hurrem Sultan Hammam",
         "description": "Alternative hamam (turkish ritual bath) - fancier.",
         "place_id": "ChIJaYWmtb25yhQRtbo2Z_rcXa0",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJaYWmtb25yhQRtbo2Z_rcXa0",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJaYWmtb25yhQRtbo2Z_rcXa0&query_place_id=ChIJaYWmtb25yhQRtbo2Z_rcXa0",
         "place_name": "Hurrem Sultan Hammam",
         "formatted_address": "Cankurtaran, Ayasofya Meydanı No:2, 34122 Fatih/İstanbul, Türkiye",
         "address_components": [
@@ -381,7 +381,7 @@ let data = {
         "name": "İnci Pastanesi",
         "description": "Classic profiterole destination - which in Turkey is something more akin to a chocolate pudding parfait - lots of shops sell it.",
         "place_id": "ChIJhXvtGGG3yhQRuoMr9a3nk70",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJhXvtGGG3yhQRuoMr9a3nk70",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJhXvtGGG3yhQRuoMr9a3nk70&query_place_id=ChIJhXvtGGG3yhQRuoMr9a3nk70",
         "place_name": "İnci Pastanesi",
         "formatted_address": "Mahallesi, Şehit Muhtar, Mis Sk. 18/A, 34435 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -486,7 +486,7 @@ let data = {
         "name": "Grand Bazaar",
         "description": "I don't quite know what to say about this place. I want to love it, but it ends up feeling less grand than I'd like. There are fun streets in the Mahmutpaşa distict to explore all around it, like one entire street that's nothing but rivets, another that's nothing but yarn, though lots of the streets are nothing but knock-off clothing. https://nomadicniko.com/turkey/istanbul/mahmutpasa/",
         "place_id": "ChIJJwXXYpG5yhQRq5jBWgtoyGQ",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJJwXXYpG5yhQRq5jBWgtoyGQ",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJJwXXYpG5yhQRq5jBWgtoyGQ&query_place_id=ChIJJwXXYpG5yhQRq5jBWgtoyGQ",
         "place_name": "Grand Bazaar",
         "formatted_address": "Beyazıt, 34126 Fatih/İstanbul, Türkiye",
         "address_components": [
@@ -567,7 +567,7 @@ let data = {
         "name": "Egyptian Bazaar",
         "description": "Feels like a tourist trap but the quality of the sundries  (spices, fruits, nuts, teas) is quite good, though you can find similar quality on many blocks of the city - including in outdoor markets in Moda. It's a beautiful ancient building.",
         "place_id": "ChIJn9t8b-u5yhQRXVCwl43vu0Q",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJn9t8b-u5yhQRXVCwl43vu0Q",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJn9t8b-u5yhQRXVCwl43vu0Q&query_place_id=ChIJn9t8b-u5yhQRXVCwl43vu0Q",
         "place_name": "Egyptian Bazaar",
         "formatted_address": "Rüstem Paşa, 34116 Fatih/İstanbul, Türkiye",
         "address_components": [
@@ -649,7 +649,7 @@ let data = {
         "name": "Miniaturk",
         "description": "Oh god how have I not been here yet?! MINIATURE DIORAMAS!!! (oh, because it's far)",
         "place_id": "ChIJ9WsAScqwyhQRHNfCzoxQiTE",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ9WsAScqwyhQRHNfCzoxQiTE",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ9WsAScqwyhQRHNfCzoxQiTE&query_place_id=ChIJ9WsAScqwyhQRHNfCzoxQiTE",
         "place_name": "Miniaturk",
         "formatted_address": "Örnektepe, İmrahor Cd. No:7, 34445 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -744,7 +744,7 @@ let data = {
         "name": "Dirimart",
         "description": "Art gallery, wanted to explore but haven't had the chance.",
         "place_id": "ChIJ8epbh2i3yhQRKwmGaMZs8F4",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ8epbh2i3yhQRKwmGaMZs8F4",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ8epbh2i3yhQRKwmGaMZs8F4&query_place_id=ChIJ8epbh2i3yhQRKwmGaMZs8F4",
         "place_name": "Dirimart",
         "formatted_address": "Hacı Ahmet Mahallesi Irmak Caddesi DLP 1-9, Hacıahmet, 34440 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -825,7 +825,7 @@ let data = {
         "name": "PİLEVNELİ",
         "description": "Only worth it if you're going to Arter - small gallery. Funny part is how much it feels like early Soho - million dollar white box off the side of a highway next to junkyards.",
         "place_id": "ChIJo0gzjGi3yhQRdHDGQVImzEk",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJo0gzjGi3yhQRdHDGQVImzEk",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJo0gzjGi3yhQRdHDGQVImzEk&query_place_id=ChIJo0gzjGi3yhQRdHDGQVImzEk",
         "place_name": "PİLEVNELİ",
         "formatted_address": "Yenişehir, Irmak Cd. No:25, 34435 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -920,7 +920,7 @@ let data = {
         "name": "Craft Workshop",
         "description": "Tea garden in a courtyard that's lovely to take a moment away from the noise and bustle of the city",
         "place_id": "ChIJ3WnwC9-5yhQRLbohpWYR7ms",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ3WnwC9-5yhQRLbohpWYR7ms",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ3WnwC9-5yhQRLbohpWYR7ms&query_place_id=ChIJ3WnwC9-5yhQRLbohpWYR7ms",
         "place_name": "Craft Workshop",
         "formatted_address": "Tomtom, Boğazkesen Cd. No:67, 34433 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -1017,7 +1017,7 @@ let data = {
         "name": "Istanbul Museum of Modern Art",
         "description": "We'll be going here on Sunday!",
         "place_id": "ChIJw8JuD9m5yhQRnegQbG9Irjs",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJw8JuD9m5yhQRnegQbG9Irjs",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJw8JuD9m5yhQRnegQbG9Irjs&query_place_id=ChIJw8JuD9m5yhQRnegQbG9Irjs",
         "place_name": "Istanbul Museum of Modern Art",
         "formatted_address": "Kılıçali Paşa, Tophane İskele Cd. No:1/1, 34433 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -1112,7 +1112,7 @@ let data = {
         "name": "Hagia Sophia Grand Mosque",
         "description": "Beautiful mosque, takes five minutes to see, sometimes need to wait due to prayer times, I never fully understand the schedule.",
         "place_id": "ChIJJxwBkr65yhQRrk9EN29vbiM",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJJxwBkr65yhQRrk9EN29vbiM",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJJxwBkr65yhQRrk9EN29vbiM&query_place_id=ChIJJxwBkr65yhQRrk9EN29vbiM",
         "place_name": "Hagia Sophia Grand Mosque",
         "formatted_address": "Sultan Ahmet, Ayasofya Meydanı No:1, 34122 Fatih/İstanbul, Türkiye",
         "address_components": [
@@ -1210,7 +1210,7 @@ let data = {
         "highly_recommended": true,
         "description": "The other big palace to visit - this is the ottoman one, it's much weirder (and therefore more interesting) to me than Dohmabace - feels like one could imagine some scene in Star Wars happening here.",
         "place_id": "ChIJM_ilr7i5yhQRAFMBw0MZqhU",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJM_ilr7i5yhQRAFMBw0MZqhU",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJM_ilr7i5yhQRAFMBw0MZqhU&query_place_id=ChIJM_ilr7i5yhQRAFMBw0MZqhU",
         "place_name": "Topkapi Palace Museum",
         "formatted_address": "Cankurtaran, 34122 Fatih/İstanbul, Türkiye",
         "address_components": [
@@ -1292,7 +1292,7 @@ let data = {
         "name": "DESTINA KUMPIR",
         "description": "A sea-side outdoor \"mall\" made up entirely of places that sell overstuffed potatoes.",
         "place_id": "ChIJhycK4mm3yhQRMWaiCP1FLdk",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJhycK4mm3yhQRMWaiCP1FLdk",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJhycK4mm3yhQRMWaiCP1FLdk&query_place_id=ChIJhycK4mm3yhQRMWaiCP1FLdk",
         "place_name": "DESTINA KUMPIR",
         "formatted_address": "Ortaköy, Mecidiye Köprüsü Sk. No:1 D:3, 34347 Beşiktaş/İstanbul, Türkiye",
         "address_components": [
@@ -1395,7 +1395,7 @@ let data = {
         "name": "Dolmabahçe Palace",
         "description": "One of two big palaces to visit in Turkey - this is the modern one that reminds one of Versaille or Munich Residenz",
         "place_id": "ChIJ4307Gna3yhQRC4M7zzg-09w",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ4307Gna3yhQRC4M7zzg-09w",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ4307Gna3yhQRC4M7zzg-09w&query_place_id=ChIJ4307Gna3yhQRC4M7zzg-09w",
         "place_name": "Dolmabahçe Palace",
         "formatted_address": "Vişnezade, Dolmabahçe Cd., 34357 Beşiktaş/İstanbul, Türkiye",
         "address_components": [
@@ -1483,7 +1483,7 @@ let data = {
         "name": "Bova Jazz Club",
         "description": "BOVA DEEZ JAZZ CLUBS.\n\nAnother jazz club.",
         "place_id": "ChIJTx8IpGa3yhQRO6cN1jlnQ4E",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJTx8IpGa3yhQRO6cN1jlnQ4E",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJTx8IpGa3yhQRO6cN1jlnQ4E&query_place_id=ChIJTx8IpGa3yhQRO6cN1jlnQ4E",
         "place_name": "Bova Jazz Club",
         "formatted_address": "Şehit Muhtar, Mis Sk. No:17, 34435 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -1579,7 +1579,7 @@ let data = {
         "name": "Nardis Jazz Club",
         "description": "It's a jazz club, it could be in Paris or NYC or Spokane or on the moon, it's a jazz club.",
         "place_id": "ChIJ4TqEhjnIyhQRX1pj6zIO50k",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ4TqEhjnIyhQRX1pj6zIO50k",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ4TqEhjnIyhQRX1pj6zIO50k&query_place_id=ChIJ4TqEhjnIyhQRX1pj6zIO50k",
         "place_name": "Nardis Jazz Club",
         "formatted_address": "Bereketzade, Galata Kulesi Sk. No:8, 34421 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -1675,7 +1675,7 @@ let data = {
         "name": "Pera Museum",
         "description": "Good!",
         "place_id": "ChIJLTINFuC5yhQRyRbXfXliR9k",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJLTINFuC5yhQRyRbXfXliR9k",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJLTINFuC5yhQRyRbXfXliR9k&query_place_id=ChIJLTINFuC5yhQRyRbXfXliR9k",
         "place_name": "Pera Museum",
         "formatted_address": "Asmalı Mescit, Meşrutiyet Cd. No:65, 34430 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -1772,7 +1772,7 @@ let data = {
         "highly_recommended": true,
         "description": "Beautiful Multi-floor art gallery including films, located right on Istikai which is a bustling commercial boulevard (formerly one of the cooler more progressive parts of Istanbul)",
         "place_id": "ChIJT3JZAGC3yhQR_dj-LYbB5bY",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJT3JZAGC3yhQR_dj-LYbB5bY",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJT3JZAGC3yhQR_dj-LYbB5bY&query_place_id=ChIJT3JZAGC3yhQR_dj-LYbB5bY",
         "place_name": "Salt Beyoğlu",
         "formatted_address": "Asmalı Mescit, İstiklal Cd. No:136, 34430 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -1871,7 +1871,7 @@ let data = {
         "name": "Salt Galata",
         "description": "companion to Salt Beyoglu - maybe the bigger one? check their website",
         "place_id": "ChIJ9XlKFOi5yhQRpjqu9uyObWE",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ9XlKFOi5yhQRpjqu9uyObWE",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ9XlKFOi5yhQRpjqu9uyObWE&query_place_id=ChIJ9XlKFOi5yhQRpjqu9uyObWE",
         "place_name": "Salt Galata",
         "formatted_address": "Arap Cami, Bankalar Cd. No:11, 34420 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -1972,7 +1972,7 @@ let data = {
         "highly_recommended": true,
         "description": "A moderately? very? famous Turkish artist's gallery and cafe. If you're lucky, he'll be there with his giant dog and will pull his monographs off the shelves and start showing you photos of his work including lots of street art photography. Art collection is not bad. Again, sort of a wonderkamer/warehouse vibe.",
         "place_id": "ChIJUw_Q6mW3yhQR6pV1eBu3tPg",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJUw_Q6mW3yhQR6pV1eBu3tPg",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJUw_Q6mW3yhQR6pV1eBu3tPg&query_place_id=ChIJUw_Q6mW3yhQR6pV1eBu3tPg",
         "place_name": "Piramid Sanat",
         "formatted_address": "Şehit Muhtar, Feridiye Cd. No:23/25, 34430 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -2067,7 +2067,7 @@ let data = {
         "name": "Çukurcuma Antiques & Cafe",
         "description": "More antiques, with a cafe, sweet people, english friendly",
         "place_id": "ChIJYWnKh_W3yhQRJZi1Ks788l8",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJYWnKh_W3yhQRJZi1Ks788l8",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJYWnKh_W3yhQRJZi1Ks788l8&query_place_id=ChIJYWnKh_W3yhQRJZi1Ks788l8",
         "place_name": "Çukurcuma Antiques & Cafe",
         "formatted_address": "Firuzağa, Çukur Cuma Cd. No:52B, 34425 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -2164,7 +2164,7 @@ let data = {
         "name": "Limon Kahvaltı Evi",
         "description": "A good place to get a serpme kahvalti (a turkish breakfast with a million individual dishes). Though you don't need to go here, there are a lot of cute kahvalti places around here.",
         "place_id": "ChIJFwI2KZ23yhQRAYVIfqMHiio",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJFwI2KZ23yhQRAYVIfqMHiio",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJFwI2KZ23yhQRAYVIfqMHiio&query_place_id=ChIJFwI2KZ23yhQRAYVIfqMHiio",
         "place_name": "Limon Kahvaltı Evi",
         "formatted_address": "Firuzağa, Palaska Sk. No:3/A, 34000 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -2260,7 +2260,7 @@ let data = {
         "name": "Probador Colectiva",
         "description": "This seems to be the center of fourth-wave coffee in Istanbul",
         "place_id": "ChIJsVPwHN-5yhQR3VzxCEr3lt4",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJsVPwHN-5yhQR3VzxCEr3lt4",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJsVPwHN-5yhQR3VzxCEr3lt4&query_place_id=ChIJsVPwHN-5yhQR3VzxCEr3lt4",
         "place_name": "Probador Colectiva",
         "formatted_address": "Firuzağa, Kadiriler Ykş. No:69, 34425 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -2355,7 +2355,7 @@ let data = {
         "name": "Yaşam Antik The Old Curiosity Shop",
         "description": "You don't need to go to this particular antique shop, just pushing you towards the streets with lots of cute shops.",
         "place_id": "ChIJaYw1Y3S3yhQRaS7_RUgGSrA",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJaYw1Y3S3yhQRaS7_RUgGSrA",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJaYw1Y3S3yhQRaS7_RUgGSrA&query_place_id=ChIJaYw1Y3S3yhQRaS7_RUgGSrA",
         "place_name": "Yaşam Antik The Old Curiosity Shop",
         "formatted_address": "Firuzağa, Yeni Çarşı Cd. No:47, 34433 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -2451,7 +2451,7 @@ let data = {
         "highly_recommended": true,
         "description": "There's a lot of great antique stores on this street.",
         "place_id": "ChIJpZTzeGG3yhQRb21jzhEL6hY",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJpZTzeGG3yhQRb21jzhEL6hY",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJpZTzeGG3yhQRb21jzhEL6hY&query_place_id=ChIJpZTzeGG3yhQRb21jzhEL6hY",
         "place_name": "The Works",
         "formatted_address": "Kuloğlu, Faik Paşa Cd. No:6 D:1, 34433 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -2555,7 +2555,7 @@ let data = {
         "name": "The Museum of Innocence",
         "description": "This museum is incredibly David-coded.\n\nThe museum exists both in fiction - the book Museum of Innocence by Orhan Pamuk, and now in real life. It blurs the line between treating the book's narrative as fact or fiction and Orhan's role in it. It's also entirely in the wonderkamer / assemblage / vitrine style I love so much.",
         "place_id": "ChIJeVQDXt-5yhQRwVR-geMJ_-s",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJeVQDXt-5yhQRwVR-geMJ_-s",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJeVQDXt-5yhQRwVR-geMJ_-s&query_place_id=ChIJeVQDXt-5yhQRwVR-geMJ_-s",
         "place_name": "The Museum of Innocence",
         "formatted_address": "Çukurcuma Caddesi, Firuzağa, Dalgıç Çk. No:2, 34425 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -2653,7 +2653,7 @@ let data = {
         "name": "İstiklal Cd.",
         "description": "A wide boulevard to stroll down for shops, restaurants and LIFE.",
         "place_id": "ChIJ93xst2G3yhQRAfesfO52mtU",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ93xst2G3yhQRAfesfO52mtU",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJ93xst2G3yhQRAfesfO52mtU&query_place_id=ChIJ93xst2G3yhQRAfesfO52mtU",
         "place_name": "İstiklal Caddesi",
         "formatted_address": "İstiklal Cd., Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -2716,7 +2716,7 @@ let data = {
         "name": "Arter",
         "description": "Somewhat out of the way, beautiful very contemporary Turkish art museum funded by the only good billionaire in the world - the Koç family who is single-handedly trying to keep Turkey from becoming entirely conservative fascist.",
         "place_id": "ChIJByq0j-C5yhQRiR126Z5YBAo",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJByq0j-C5yhQRiR126Z5YBAo",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJByq0j-C5yhQRiR126Z5YBAo&query_place_id=ChIJByq0j-C5yhQRiR126Z5YBAo",
         "place_name": "Arter",
         "formatted_address": "Yenişehir, Irmak Cd. No:13, 34435 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -2811,7 +2811,7 @@ let data = {
         "name": "Tavern",
         "description": "Another cool looking music & cocktail bar https://www.instagram.com/tavern____/?hl=en",
         "place_id": "ChIJp0-LzmG3yhQRVsl77eroS1w",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJp0-LzmG3yhQRVsl77eroS1w",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJp0-LzmG3yhQRVsl77eroS1w&query_place_id=ChIJp0-LzmG3yhQRVsl77eroS1w",
         "place_name": "Tavern",
         "formatted_address": "A, Firuzağa, Hayriye Cd. No:16/A, 34425 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -2914,7 +2914,7 @@ let data = {
         "name": "NOH Radio Bar",
         "description": "Sadly haven't made it here, but seems like a hip place for DJ sets late at night - https://www.instagram.com/nohradio/?hl=en - also next to Tavern",
         "place_id": "ChIJl5AdJZu3yhQRxdkf7c1iYxM",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJl5AdJZu3yhQRxdkf7c1iYxM",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJl5AdJZu3yhQRxdkf7c1iYxM&query_place_id=ChIJl5AdJZu3yhQRxdkf7c1iYxM",
         "place_name": "NOH Radio Bar",
         "formatted_address": "Firuzağa, Hayriye Cd. No:18, 34425 Beyoğlu/İstanbul, Türkiye",
         "address_components": [
@@ -3009,7 +3009,7 @@ let data = {
         "name": "Borusan Contemporary",
         "description": "Have been curious to see this gallery.",
         "place_id": "ChIJK7kTCwXKyhQRbgDz2evJJtY",
-        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJK7kTCwXKyhQRbgDz2evJJtY",
+        "google_maps_link": "https://www.google.com/maps/place/?q=place_id:ChIJK7kTCwXKyhQRbgDz2evJJtY&query_place_id=ChIJK7kTCwXKyhQRbgDz2evJJtY",
         "place_name": "Borusan Contemporary",
         "formatted_address": "Rumeli Hisarı, Balta Limanı Hisar Cd. No:5, 34470 Sarıyer/İstanbul, Türkiye",
         "address_components": [
