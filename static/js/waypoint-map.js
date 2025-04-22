@@ -12,6 +12,12 @@ function initMap() {
         ]
     });
 
+    const bounds = new google.maps.LatLngBounds();
+    data.waypoints.forEach(place => {
+        bounds.extend(new google.maps.LatLng(place.latitude, place.longitude));
+    });
+    map.fitBounds(bounds);
+
     // Add markers for each location
     data.waypoints.forEach(place => {
         const marker = new google.maps.Marker({
@@ -34,6 +40,17 @@ function initMap() {
         });
     });
 }
+
+// Categories for places
+const categories = {
+    'Museums & Galleries': ['museum', 'art_gallery'],
+    'Historical Sites': ['mosque', 'tourist_attraction', 'place_of_worship'],
+    'Shopping': ['store', 'book_store', 'home_goods_store'],
+    'Food & Drink': ['restaurant', 'cafe', 'food', "bakery"],
+    'Entertainment': ['night_club', 'bar'],
+    'Spa': ['spa'],
+    'Other': []
+};
 
 function categorizeAndDisplayPlaces() {
     const categorizedPlaces = {};

@@ -1,13 +1,3 @@
-// Categories for places
-const categories = {
-    'Museums & Galleries': ['museum', 'art_gallery'],
-    'Historical Sites': ['mosque', 'tourist_attraction', 'place_of_worship'],
-    'Shopping': ['store', 'book_store', 'home_goods_store'],
-    'Food & Drink': ['restaurant', 'cafe', 'food'],
-    'Entertainment': ['night_club', 'bar'],
-    'Spa': ['spa'],
-    'Other': []
-};
 let data = {
     "link": "https://www.google.com/maps/@41.01661,29.0073459,14.39z/data=!4m7!1m3!11m2!2saEzefuruT36E_kFsODK07g!3e3!11m2!2saEzefuruT36E_kFsODK07g!3e3?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoJLDEwMjExNjQwSAFQAw%3D%3D",
     "waypoints": [
