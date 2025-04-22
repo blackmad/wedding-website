@@ -20,10 +20,12 @@ function initMap() {
 
     // Add markers for each location
     data.waypoints.forEach(place => {
-        const marker = new google.maps.Marker({
-            position: { lat: place.latitude, lng: place.longitude },
-            map: map,
-            title: place.name
+        try {
+            console.log('Creating marker for', place.name, place);
+            const marker = new google.maps.Marker({
+                position: { lat: place.latitude, lng: place.longitude },
+                map: map,
+                title: place.name
         });
 
         const infoWindow = new google.maps.InfoWindow({
@@ -36,8 +38,11 @@ function initMap() {
         });
 
         marker.addListener('click', () => {
-            infoWindow.open(map, marker);
-        });
+                infoWindow.open(map, marker);
+            });
+        } catch (error) {
+            console.error('Error creating marker for', place.name, place, error);
+        }
     });
 }
 
