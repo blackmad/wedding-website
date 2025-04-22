@@ -11,7 +11,7 @@ draft: false
 <href >
 
 
-<div class="text-xl center page__section__heading"><a href="https://www.google.com/maps/@41.01661,29.0073459,14.39z/data=!4m7!1m3!11m2!2saEzefuruT36E_kFsODK07g!3e3!11m2!2saEzefuruT36E_kFsODK07g!3e3?entry=ttu&g_ep=EgoyMDI1MDQxNi4xIKXMDSoJLDEwMjExNjQwSAFQAw%3D%3D">View this on google maps</a></div>
+<div class="text-xl center page__section__heading"><a href="https://maps.app.goo.gl/k1DDNwhZ8QWRURK78">View this on google maps</a></div>
 <div id="categories"></div> 
 
 # From our last airbnb 

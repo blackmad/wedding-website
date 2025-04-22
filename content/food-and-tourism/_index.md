@@ -4,7 +4,7 @@ title: "Food and Tourism"
 ---
 
 ## Detailed & Highly Opinionated Guides
-For a detailed map and guide to places on the European side of Istanbul, check out our <b>[Istanbul European Side Guide](/food-and-tourism/istanbul-european/).</b>
+For a detailed map and guide to places in Istanbul, check out our <b>[Istanbul European Side Guide](/food-and-tourism/istanbul-european/)</b> and <b>[Istanbul Anatolian (Asian) Side - Moda/Kadikoy Guide](/food-and-tourism/istanbul-anatolian/)</b>.
 
 
 ## Food!
