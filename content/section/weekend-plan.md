@@ -37,6 +37,18 @@ Art! (European side of Istanbul)
 For those staying on the Anatolian side, we recommend taking the ferry to Karakoy and then walking to the museum. Google maps will show you the way.
 
 <details>
+<summary>9:30 AM: Super Optional Traditional Turkish Breakfast (Kahvaltı)</summary>
+<p>Join us for a traditional Turkish breakfast spread in the charming neighborhood of Kadıköy.</p>
+
+<p>📍 <strong>Location:</strong>
+<a href="https://www.google.com/maps/place/Naga+Putrika/@40.9804487,29.0231292,18.67z/data=!4m10!1m2!2m1!1skahvalti+moda+istanbul!3m6!1s0x14cab88ac03362d9:0xf643cf8382cb379c!8m2!3d40.9804921!4d29.0239665!15sChZrYWh2YWx0aSBtb2RhIGlzdGFuYnVsWhgiFmthaHZhbHRpIG1vZGEgaXN0YW5idWySARRicmVha2Zhc3RfcmVzdGF1cmFudKoBYQoNL2cvMTFoYnNtcnlkdBABKhEiDWthaHZhbHRpIG1vZGEoITIfEAEiG94ydEFay-9uKUtbongqGGzFlGpsL9y-8EOdNDIaEAIiFmthaHZhbHRpIG1vZGEgaXN0YW5idWzgAQA!16s%2Fg%2F11cjqcw_mz?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoASAFQAw%3D%3D">Naga Putrika</a>
+<br>
+⏰ 9:30 AM<br>
+💡 Tip: Come hungry! Turkish breakfast is a feast</p>
+💡 For now we only have a 15 person reservation, we'll figure it out</p>
+</details>
+
+<details>
 <summary>Morning/Afternoon: Suggested Historical Sites</summary>
 <p>For those interested in exploring Istanbul's rich history before the evening reception, here are some recommended sites. All are easily accessible and worth visiting:</p>
 
@@ -101,16 +113,7 @@ A day in Istanbul!
 </details>
 
 <details>
-<summary>3:00 PM - 5:00 PM: Manicures & Pedicures</summary>
-<p>Open appointment slots for wedding guests to get manicures and pedicures.</p>
-
-<p>📍 <strong>Location:</strong> TBD<br>
-⏰ 3:00 PM - 5:00 PM<br>
-💅 Appointments recommended</p>
-</details>
-
-<details>
-<summary>12:00 PM - 3:00 PM: Wedding Party Men's Hamam - <a href="https://www.google.com/maps/place/K%C4%B1l%C4%B1%C3%A7+Ali+Pa%C5%9Fa+Hamam/@41.0261946,28.9780568,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab9de9ff3602d:0x8cf6a50e4ca2fbc2!8m2!3d41.0261906!4d28.9806317!16s%2Fg%2F1hhxkp_df?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Kılıç Ali Paşa Hamam</a></summary>
+<summary>4:00 PM - 5:30 PM: Wedding Party Men's Hamam - <a href="https://www.google.com/maps/place/K%C4%B1l%C4%B1%C3%A7+Ali+Pa%C5%9Fa+Hamam/@41.0261946,28.9780568,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab9de9ff3602d:0x8cf6a50e4ca2fbc2!8m2!3d41.0261906!4d28.9806317!16s%2Fg%2F1hhxkp_df?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Kılıç Ali Paşa Hamam</a></summary>
 
 <p>The groom and men of the wedding party will enjoy a traditional Turkish bath experience.</p>
 <p>Spots are limited to the wedding party - we will reach out to invite folks. Otherwise - explore the city!</p>
