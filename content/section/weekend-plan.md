@@ -13,16 +13,22 @@ Evening in Kadıköy (Anatolian side of Istanbul)
 
 
 <details>
-<summary>7:00PM Casual döner dinner at <a href="https://www.google.com/maps/place/Tatar+Salim/@40.989787,29.0240479,19z/data=!4m6!3m5!1s0x14cab867bc394145:0xf1e4b12c689f9c6a!8m2!3d40.9894843!4d29.0244177!16s%2Fg%2F11f4_5f777?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Tatar Salim</a></summary>
-<p>David's favorite döner place in Istanbul, coincidentally, Yuva's mother's favorite döner place as well. <br/><br/>Yuva isn't sure what the big deal is.</p>
+<summary>7:00PM Casual dinner at
+<a href="https://www.google.com/maps/place/%C3%87iya+Sofras%C4%B1/@40.9893348,29.02407,19z/data=!4m6!3m5!1s0x14cab867a20b3a85:0x58aaaeb4b80c5113!8m2!3d40.9893196!4d29.0244093!16s%2Fg%2F1td6_9_v?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoASAFQAw%3D%3D">Ciya Sofrasi</a>
+</summary>
+<p><a href="https://www.eater.com/2018/9/28/17888274/chefs-table-musa-dagdeviren-season-5-episode-2">As featured on the hit Netflix series "Chef's Table"</a></p>
 <p>👗 Casual attire code</p>
+<p>We had wanted to take you to 
+ <a href="https://www.google.com/maps/place/Tatar+Salim/@40.989787,29.0240479,19z/data=!4m6!3m5!1s0x14cab867bc394145:0xf1e4b12c689f9c6a!8m2!3d40.9894843!4d29.0244177!16s%2Fg%2F11f4_5f777?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Tatar Salim</a> which is David's favorite döner place in Istanbul, coincidentally, Yuva's mother's favorite döner place as well. <br/><br/>Yuva isn't sure what the big deal is. BUT we decided it was too casual. You should still find a reason to go.</p>
 </details>
 
 <details>
-<summary>9:00PM Drinks and dancing at <a href="https://www.google.com/maps/place/Arka+Oda/@40.9894853,29.023774,19z/data=!4m6!3m5!1s0x14cab866c2290027:0x88da0a80a49f3ded!8m2!3d40.9865964!4d29.0264904!16s%2Fg%2F1tk3w4sd?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Arka Oda</a></summary>
-<p>It turns out that an experimental music venue in Berlin that David thought was Japanese is actually Turkish with its first and only other outpost in Kadıköy. Yuva has been going here since she was a teenager. Most nights it features experimental music upstairs and a dance floor downstairs. </p>
+<summary>9:00PM Drinks and dancing at <a href="https://www.instagram.com/bina.moda/?hl=en">Bina</a></summary> 
 <p>🎵 Music style varies by night<br>
 🎟️ No cover charge<br></p>
+
+<p>Note that we wanted to take you to <a href="https://www.google.com/maps/place/Arka+Oda/@40.9894853,29.023774,19z/data=!4m6!3m5!1s0x14cab866c2290027:0x88da0a80a49f3ded!8m2!3d40.9865964!4d29.0264904!16s%2Fg%2F1tk3w4sd?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Arka Oda</a> but they were tooooo cool for a wedding party on a Saturday night. (It turns out that an experimental music venue in Berlin that David thought was Japanese is actually Turkish with its first and only other outpost in Kadıköy. Yuva has been going here since she was a teenager. Most nights it features experimental music upstairs and a dance floor downstairs.) You should still find a night to check it out.</p>
+
 </details>
 
 
