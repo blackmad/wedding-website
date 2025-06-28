@@ -13,7 +13,7 @@ Evening in Kadıköy (Anatolian side of Istanbul)
 
 
 <details>
-<summary>7:00PM Casual dinner at
+<summary>8:30PM Casual dinner at
 <a href="https://www.google.com/maps/place/%C3%87iya+Sofras%C4%B1/@40.9893348,29.02407,19z/data=!4m6!3m5!1s0x14cab867a20b3a85:0x58aaaeb4b80c5113!8m2!3d40.9893196!4d29.0244093!16s%2Fg%2F1td6_9_v?entry=ttu&g_ep=EgoyMDI1MDUxMy4xIKXMDSoASAFQAw%3D%3D">Ciya Sofrasi</a>
 </summary>
 <p><a href="https://www.eater.com/2018/9/28/17888274/chefs-table-musa-dagdeviren-season-5-episode-2">As featured on the hit Netflix series "Chef's Table"</a></p>
@@ -23,7 +23,7 @@ Evening in Kadıköy (Anatolian side of Istanbul)
 </details>
 
 <details>
-<summary>9:00PM Drinks and dancing at <a href="https://www.instagram.com/bina.moda/?hl=en">Bina</a></summary> 
+<summary>10:00PM Drinks and dancing at <a href="https://www.instagram.com/bina.moda/?hl=en">Bina</a></summary> 
 <p>🎵 Music style varies by night<br>
 🎟️ No cover charge<br></p>
 
