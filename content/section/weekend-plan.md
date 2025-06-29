@@ -99,22 +99,12 @@ A day in Istanbul!
 </subheading2>
 
 <details>
-<summary>10:00 AM: Traditional Turkish Breakfast (Kahvaltı)</summary>
-<p>Join us for a traditional Turkish breakfast spread in the charming neighborhood of Kadıköy.</p>
-
-<p>📍 <strong>Location:</strong> TBD - Kadıköy<br>
-⏰ 10:00 AM<br>
-💡 Tip: Come hungry! Turkish breakfast is a feast</p>
-</details>
-
-<details>
 <summary>12:00 PM - 3:00 PM: Wedding Party Women's Hamam - <a href="https://www.google.com/maps/place/K%C4%B1l%C4%B1%C3%A7+Ali+Pa%C5%9Fa+Hamam/@41.0261946,28.9780568,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab9de9ff3602d:0x8cf6a50e4ca2fbc2!8m2!3d41.0261906!4d28.9806317!16s%2Fg%2F1hhxkp_df?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Kılıç Ali Paşa Hamam</a></summary>
 <p>The bride and women of the wedding party will enjoy a traditional Turkish bath experience.</p>
 <p>Spots are limited to the wedding party - we will reach out to invite folks. Otherwise - explore the city!</p>
 
 <p>📍 <strong>Location:</strong> TBD<br>
 ⏰ 12:00 PM - 3:00 PM<br>
-👗 Bring swimwear<br>
 💡 A relaxing and traditional pre-wedding ritual</p>
 </details>
 
@@ -126,7 +116,6 @@ A day in Istanbul!
 
 <p>📍 <strong>Location:</strong> TBD<br>
 ⏰ 4:30 PM - 6:30 PM<br>
-👗 Bring swimwear<br>
 💡 A relaxing and traditional pre-wedding ritual</p>
 </details>
 
