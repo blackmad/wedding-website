@@ -137,15 +137,21 @@ Wedding!
 </subheading2>
 
 <details>
-<summary>1:00 PM - 6:00 PM: Wedding Party preparations - <a href="https://www.google.com/maps/place/Liya+All/@40.8502673,29.1386105,17z/data=!3m1!4b1!4m6!3m5!1s0x14cac36ff6d8fded:0xee2fc4a1d52b5f9f!8m2!3d40.8502633!4d29.1411854!16s%2Fg%2F11sfrx2sq_?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Liya</a></summary>
+
+<summary>1:00 PM - 6:00 PM: Wedding Party (only) preparations - please be early to the ferry at - <a href="https://www.google.com/maps/place/Dragos+Liman%C4%B1/@40.9007,29.1395636,16z/data=!4m6!3m5!1s0x14cac3e86f94ddd7:0x8a7b0aa7aacf8262!8m2!3d40.9007002!4d29.1480663!16s%2Fg%2F11fnr_3wgw?entry=ttu&g_ep=EgoyMDI1MDYxNy4wIKXMDSoASAFQAw%3D%3D">Dragos Limani</a></summary>
 <p>Close friends & family will join the bridal couple on the island in advance of the wedding to get ready!</p>
+<p>
 </details>
+
+<details>
+<summary>5:30 PM - Be at the Ferry! -  <a href="https://www.google.com/maps/place/Mavi+Marmara+Port/@40.9487773,29.0921542,15.33z/data=!4m6!3m5!1s0x14cac6e2c14921bd:0x69c96b7499dd8ec7!8m2!3d40.952348!4d29.09428!16s%2Fg%2F11b7q8r1vx?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"Bostanci Harbour - Mavi Marmara</a></summary>
+<p>You MUST meet this ferry on time. Please be early and leave extra time./p>
 
 <details>
 <summary>6:00 PM - 1:30 Wedding Ceremony - <a href="https://www.google.com/maps/place/Liya+All/@40.8502673,29.1386105,17z/data=!3m1!4b1!4m6!3m5!1s0x14cac36ff6d8fded:0xee2fc4a1d52b5f9f!8m2!3d40.8502633!4d29.1411854!16s%2Fg%2F11sfrx2sq_?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Liya</a></summary>
 <p>Join us for a non-traditional Turkish wedding ceremony.</p>
 
-<p>📍 <strong>Location:</strong> Ferry leaves from Bostanci Harbour - more precise directions to come.<br>
+<p>📍 <strong>Location:</strong> Ferry leaves from <a href="https://www.google.com/maps/place/Mavi+Marmara+Port/@40.9487773,29.0921542,15.33z/data=!4m6!3m5!1s0x14cac6e2c14921bd:0x69c96b7499dd8ec7!8m2!3d40.952348!4d29.09428!16s%2Fg%2F11b7q8r1vx?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"Bostanci Harbour - Mavi Marmara</a><br>
 👗 Summer Wedding Attire</p>
 </details>
 
