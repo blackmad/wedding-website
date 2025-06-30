@@ -144,7 +144,7 @@ Wedding!
 </details>
 
 <details>
-<summary>5:30 PM - Be at the Ferry! -  <a href="https://www.google.com/maps/place/Mavi+Marmara+Port/@40.9487773,29.0921542,15.33z/data=!4m6!3m5!1s0x14cac6e2c14921bd:0x69c96b7499dd8ec7!8m2!3d40.952348!4d29.09428!16s%2Fg%2F11b7q8r1vx?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D"Bostanci Harbour - Mavi Marmara</a></summary>
+<summary>5:30 PM - Be at the Ferry! -  <a href="https://www.google.com/maps/place/Mavi+Marmara+Port/@40.9487773,29.0921542,15.33z/data=!4m6!3m5!1s0x14cac6e2c14921bd:0x69c96b7499dd8ec7!8m2!3d40.952348!4d29.09428!16s%2Fg%2F11b7q8r1vx?entry=ttu&g_ep=EgoyMDI1MDYyMy4yIKXMDSoASAFQAw%3D%3D">Bostanci Harbour - Mavi Marmara</a></summary>
 <p>You MUST meet this ferry on time. Please be early and leave extra time./p>
 
 <details>
