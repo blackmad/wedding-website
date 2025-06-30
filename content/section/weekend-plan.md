@@ -109,7 +109,7 @@ A day in Istanbul!
 </details>
 
 <details>
-<summary>4:00 PM - 5:30 PM: Wedding Party Men's Hamam - <a href="https://www.google.com/maps/place/K%C4%B1l%C4%B1%C3%A7+Ali+Pa%C5%9Fa+Hamam/@41.0261946,28.9780568,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab9de9ff3602d:0x8cf6a50e4ca2fbc2!8m2!3d41.0261906!4d28.9806317!16s%2Fg%2F1hhxkp_df?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Kılıç Ali Paşa Hamam</a></summary>
+<summary>4:30 PM - 6:00 PM: Wedding Party Men's Hamam - <a href="https://www.google.com/maps/place/K%C4%B1l%C4%B1%C3%A7+Ali+Pa%C5%9Fa+Hamam/@41.0261946,28.9780568,17z/data=!3m1!4b1!4m6!3m5!1s0x14cab9de9ff3602d:0x8cf6a50e4ca2fbc2!8m2!3d41.0261906!4d28.9806317!16s%2Fg%2F1hhxkp_df?entry=ttu&g_ep=EgoyMDI1MDEyMi4wIKXMDSoASAFQAw%3D%3D">Kılıç Ali Paşa Hamam</a></summary>
 
 <p>The groom and men of the wedding party will enjoy a traditional Turkish bath experience.</p>
 <p>Spots are limited to the wedding party - we will reach out to invite folks. Otherwise - explore the city!</p>
